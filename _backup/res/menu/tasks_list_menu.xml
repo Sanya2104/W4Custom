@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_search" android:id="@id/searchButton" android:visible="false" android:title="@string/task_list_overflow_menu_search" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="always" />
+    <item android:id="@id/downloadTasks" android:visible="false" android:title="@string/task_list_overflow_menu_download_tasks" app:showAsAction="never" />
+    <item android:id="@id/uploadTasks" android:visible="false" android:title="@string/task_list_overflow_menu_upload_tasks" app:showAsAction="never" />
+    <item android:id="@id/discardTasks" android:visible="false" android:title="@string/task_list_overflow_menu_discard_selected" app:showAsAction="never" />
+    <item android:id="@id/toggleLocationTracking" android:title="@string/task_list_overflow_menu_start_location_tracking" app:showAsAction="never" />
+    <item android:icon="@drawable/ic_close" android:id="@id/clearSelection" android:visible="false" android:title="@string/task_list_overflow_menu_clear_selection" app:showAsAction="ifRoom" />
+    <item android:id="@id/reassign" android:visible="false" android:title="@string/task_list_overflow_menu_reassign" app:showAsAction="never" />
+    <item android:id="@id/logoutButton" android:title="@string/task_list_overflow_menu_logout" app:showAsAction="never" />
+</menu>

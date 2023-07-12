@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_main_item" android:minHeight="@dimen/height_task_list_item" android:layout_marginStart="@dimen/margin_main_item" android:layout_marginEnd="@dimen/margin_main_item" app:cardCornerRadius="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:padding="@dimen/margin_main_item" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/commentInitialsWrapper" android:background="@drawable/comment_initials_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+            <TextView android:textSize="@dimen/text_size_main_tasks_item_label" android:textColor="@color/white" android:layout_gravity="center" android:id="@id/commentWorkerInitials" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="16.0dip" android:layout_toEndOf="@id/commentInitialsWrapper">
+            <TextView android:textSize="@dimen/tasks_list_id_text_size" android:textColor="@color/black" android:id="@id/commentWorkerName" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/task_list_description_text_size" android:textColor="@color/black" android:id="@id/commentWorkerComment" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/tasks_list_status_text_size" android:textColor="@color/black" android:layout_gravity="end" android:id="@id/commentEnteredTime" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

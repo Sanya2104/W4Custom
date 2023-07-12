@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arcgisruntime_contingency_validation_for_field_group">
+        <item quantity="other">Mulighetsvalidering mislyktes for feltgruppene (%s)</item>
+        <item quantity="one">Mulighetsvalidering mislyktes for feltgruppen (%s)</item>
+    </plurals>
+</resources>

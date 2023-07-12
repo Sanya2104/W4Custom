@@ -1,0 +1,47 @@
+.class public Lcom/esri/arcgisruntime/internal/io/handler/request/portal/d;
+.super Lcom/esri/arcgisruntime/internal/io/handler/request/portal/p0;
+.source "SourceFile"
+
+
+# static fields
+.field private static final ORG_THUMBNAIL_ENDPOINT:Ljava/lang/String; = "%s/sharing/rest/portals/self/resources/%s"
+
+
+# direct methods
+.method public constructor <init>(Lcom/esri/arcgisruntime/portal/Portal;Ljava/lang/String;)V
+    .locals 0
+
+    invoke-direct {p0, p1, p2}, Lcom/esri/arcgisruntime/internal/io/handler/request/portal/p0;-><init>(Lcom/esri/arcgisruntime/portal/Portal;Ljava/lang/String;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method protected a()Ljava/lang/String;
+    .locals 3
+
+    const/4 v0, 0x2
+
+    new-array v0, v0, [Ljava/lang/Object;
+
+    iget-object v1, p0, Lcom/esri/arcgisruntime/internal/io/handler/request/c;->c:Ljava/lang/String;
+
+    const/4 v2, 0x0
+
+    aput-object v1, v0, v2
+
+    iget-object v1, p0, Lcom/esri/arcgisruntime/internal/io/handler/request/portal/p0;->l:Ljava/lang/String;
+
+    const/4 v2, 0x1
+
+    aput-object v1, v0, v2
+
+    const-string v1, "%s/sharing/rest/portals/self/resources/%s"
+
+    invoke-static {v1, v0}, Ljava/lang/String;->format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method

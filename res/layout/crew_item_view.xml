@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/task_details_crew_member_item_text_size" android:textColor="@color/task_details_crew_member_item_text_color" android:gravity="center_vertical" android:id="@id/tvName" android:paddingLeft="@dimen/margin_start_task_details_crew_member_item" android:paddingRight="@dimen/margin_start_task_details_crew_member_item" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/height_task_details_crew_member_item" android:paddingHorizontal="@dimen/margin_start_task_details_crew_member_item"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="24.0sp" android:textColor="#ff4f4f4f" android:gravity="center_horizontal" android:id="@id/tvDialogTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="4.0dip" android:text="@string/task_details_escalation_dialog_title" android:singleLine="true" />
+    <View android:background="@color/black" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <ListView android:id="@id/lvEscalations" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" />
+</LinearLayout>

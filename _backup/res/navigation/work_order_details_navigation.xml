@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/work_order_details_navigation" app:startDestination="@id/workOrderDetailsFragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:name="net.gdi.w4.ui.workorders.details.WorkOrderDetailsFragment" android:id="@id/workOrderDetailsFragment">
+        <action android:id="@id/action_workOrderDetailsFragment_to_documentDetailsFragment" app:destination="@id/documentDetails" />
+    </fragment>
+    <fragment android:label="@string/document_details_screen_title_label" android:name="net.gdi.w4.ui.tasks.details.documents.base.details.DocumentDetailsFragment" android:id="@id/documentDetails">
+        <argument android:name="documentId" app:argType="string" />
+        <argument android:name="taskId" app:argType="long" />
+        <argument android:name="editable" app:argType="boolean" />
+        <argument android:name="apiDocument" android:defaultValue="@null" app:argType="net.gdi.w4.data.model.ApiDocument" app:nullable="true" />
+        <action android:id="@id/workOrderDocumentDetails_to_imageFragment" app:destination="@id/imageFragment" />
+    </fragment>
+    <fragment android:label="" android:name="net.gdi.w4.ui.tasks.details.documents.base.details.image.ImageFragment" android:id="@id/imageFragment">
+        <argument android:name="imagePath" app:argType="string" app:nullable="true" />
+        <argument android:name="downloadUrl" app:argType="string" app:nullable="true" />
+    </fragment>
+</navigation>

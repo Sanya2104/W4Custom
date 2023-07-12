@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arcgisruntime_contingency_validation_for_field_group">
+        <item quantity="other">Falha na validação de contingência para grupos de campos (%s)</item>
+        <item quantity="one">Falha na validação de contingência para o grupo de campos (%s)</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arcgisruntime_contingency_validation_for_field_group">
+        <item quantity="other">Provjera izvanredne situacije nije uspjela za terenske grupe (%s)</item>
+        <item quantity="one">Provjera izvanredne situacije nije uspjela za terensku grupu (%s)</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavještenja</item>
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+    </plurals>
+</resources>

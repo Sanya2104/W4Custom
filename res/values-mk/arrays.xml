@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="basemapTitles">
+        <item>Топографски</item>
+        <item>Слики</item>
+        <item>Слики со етикети</item>
+        <item>Светло сиво платно</item>
+        <item>Темно сиво платно</item>
+        <item>National Geographic</item>
+        <item>Вектор за навигација</item>
+        <item>Океаните</item>
+        <item>Улици</item>
+        <item>Ноќ на улиците</item>
+        <item>Отворете ја улична карта</item>
+        <item>Улици со помош</item>
+        <item>Терен со етикети</item>
+    </string-array>
+    <string-array name="days_short">
+        <item>Пон</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чет</item>
+        <item>петок</item>
+        <item>Саб</item>
+        <item>Сонцето</item>
+    </string-array>
+    <string-array name="months">
+        <item>јануари</item>
+        <item>февруари</item>
+        <item>март</item>
+        <item>април</item>
+        <item>мај</item>
+        <item>jуни</item>
+        <item>јули</item>
+        <item>август</item>
+        <item>септември</item>
+        <item>октомври</item>
+        <item>ноември</item>
+        <item>декември</item>
+    </string-array>
+    <string-array name="pref_log_priority_entries">
+        <item>ОГЛАСНО</item>
+        <item>ДЕБРАБИЧКИ</item>
+        <item>ИНФОРМАЦИИ</item>
+        <item>ПРЕДУПРЕДУВАЈ</item>
+        <item>ГРЕШКА</item>
+        <item>ПОТВРДИ</item>
+    </string-array>
+</resources>

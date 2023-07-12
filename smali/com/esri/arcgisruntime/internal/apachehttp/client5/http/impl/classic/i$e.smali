@@ -1,0 +1,26 @@
+.class Lcom/esri/arcgisruntime/internal/apachehttp/client5/http/impl/classic/i$e;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/esri/arcgisruntime/internal/apachehttp/client5/http/impl/classic/i;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0xa
+    name = "e"
+.end annotation
+
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/esri/arcgisruntime/internal/apachehttp/client5/http/impl/classic/i$e$a;
+    }
+.end annotation
+
+
+# instance fields
+.field final a:Lcom/esri/arcgisruntime/internal/apachehttp/client5/http/impl/classic/i$e$a;
+
+.field final b:Lorg/apache/hc/core5/http/u;

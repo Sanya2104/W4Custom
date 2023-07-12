@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference app:iconSpaceReserved="false" app:key="@string/key_version_name" app:title="@string/pref_about_version_name_title" />
+    <Preference app:iconSpaceReserved="false" app:key="@string/key_version_code" app:title="@string/pref_about_version_code_title" />
+    <Preference app:iconSpaceReserved="false" app:key="@string/key_privacy_policy" app:title="@string/pref_about_privacy_policy_title" />
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_refresh" android:id="@id/refresh" android:title="@string/calendar_overflow_menu_refresh" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_calendar" android:id="@id/chooseDay" android:title="@string/calendar_overflow_menu_choose_day" app:showAsAction="ifRoom" />
+    <group android:checkableBehavior="single">
+        <item android:id="@id/schedule" android:orderInCategory="1" android:title="@string/calendar_overflow_menu_schedule" app:showAsAction="never" />
+        <item android:id="@id/day1" android:orderInCategory="2" android:title="@string/calendar_overflow_menu_one_day" app:showAsAction="never" />
+        <item android:id="@id/day3" android:checked="true" android:orderInCategory="3" android:title="@string/calendar_overflow_menu_three_days" app:showAsAction="never" />
+    </group>
+</menu>

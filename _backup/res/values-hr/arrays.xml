@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="basemapTitles">
+        <item>Topografski</item>
+        <item>Satelit</item>
+        <item>Satelit s oznakama</item>
+        <item>Svijetlo siva podloga</item>
+        <item>Tamno siva podloga</item>
+        <item>National Geographic stil</item>
+        <item>Navigacija</item>
+        <item>Oceani</item>
+        <item>Ulice</item>
+        <item>Ulice (noću)</item>
+        <item>Ulice (otvoreni prikaz)</item>
+        <item>Ulice s reljefom</item>
+        <item>Teren s oznakama</item>
+    </string-array>
+    <string-array name="days_short">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="months">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+    </string-array>
+    <string-array name="pref_log_priority_entries">
+        <item>VERBOSE</item>
+        <item>DEBUG</item>
+        <item>INFO</item>
+        <item>WARN</item>
+        <item>ERROR</item>
+        <item>ASSERT</item>
+    </string-array>
+    <string-array name="search_filter_items">
+        <item>Točno</item>
+        <item>Sadrži</item>
+    </string-array>
+</resources>

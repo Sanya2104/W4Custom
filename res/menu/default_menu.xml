@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_location_tracking" android:enabled="false" android:id="@id/locationTracking" android:visible="false" android:title="@string/task_list_overflow_menu_tracking_location" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_add_map_point" android:id="@id/addMapPoint" android:visible="false" android:title="@string/map_selection_add_map_point_title" app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference app:icon="@drawable/ic_cloud_off" app:isPreferenceVisible="false" app:key="@string/key_offline_maps" app:title="@string/drawer_offline_maps" />
+    <Preference app:icon="@drawable/ic_settings_about" app:key="@string/key_about" app:summary="@string/pref_settings_about_summary" app:title="@string/pref_settings_about_title" />
+    <Preference app:icon="@drawable/ic_baseline_notifications_24" app:key="@string/key_notifications" app:title="@string/pref_settings_notifications_title" />
+    <Preference app:icon="@drawable/ic_settings_debug_options" app:isPreferenceVisible="false" app:key="@string/key_debug_options" app:summary="@string/pref_settings_debug_options_summary" app:title="@string/pref_settings_debug_options_title" />
+    <Preference app:icon="@drawable/ic_settings_advanced" app:key="@string/key_advanced_settings" app:title="@string/pref_settings_advanced_title" />
+</PreferenceScreen>

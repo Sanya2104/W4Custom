@@ -1,0 +1,24 @@
+.class final Lwa/b$c;
+.super Lwa/g;
+.source "ComputationScheduler.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lwa/b;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x18
+    name = "c"
+.end annotation
+
+
+# direct methods
+.method constructor <init>(Ljava/util/concurrent/ThreadFactory;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lwa/g;-><init>(Ljava/util/concurrent/ThreadFactory;)V
+
+    return-void
+.end method
