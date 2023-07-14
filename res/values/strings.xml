@@ -514,8 +514,10 @@ Please click the link which will start the application and initialize login flow
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="please_wait">Please wait…</string>
     <string name="pref_about_privacy_policy_title">Privacy policy</string>
-    <string name="pref_about_version_code_title">Version code</string>
-    <string name="pref_about_version_name_title">Version name</string>
+    <string name="pref_about_author_summary">Alex_Kuzmi444</string>
+    <string name="pref_about_author_title">Author fork</string>
+    <string name="pref_about_version_code_title">Version build</string>
+    <string name="pref_about_version_name_title">Version</string>
     <string name="pref_advanced_settings_logging_title">Log</string>
     <string name="pref_advanced_settings_priority_dialog_title">Select log priority</string>
     <string name="pref_advanced_settings_priority_title">Log priority</string>

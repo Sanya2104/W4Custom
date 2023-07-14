@@ -343,7 +343,7 @@ Bitte klicken Sie auf den Link, der die Anwendung startet und den Anmeldevorgang
     <string name="overflow_menu_search">Suche</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="please_wait">Bitte warten…</string>
-    <string name="pref_about_version_name_title">Versionsname</string>
+    <string name="pref_about_version_name_title">Version</string>
     <string name="pref_advanced_settings_logging_title">Protokoll</string>
     <string name="pref_advanced_settings_priority_dialog_title">Logpriorität auswählen</string>
     <string name="pref_advanced_settings_priority_title">Log-Priorität</string>

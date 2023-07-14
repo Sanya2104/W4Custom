@@ -317,8 +317,10 @@
     <string name="password_toggle_content_description">Прикажи ја лозинката</string>
     <string name="please_wait">Ве молам почекајте…</string>
     <string name="pref_about_privacy_policy_title">Политика на приватност</string>
-    <string name="pref_about_version_code_title">Код на верзијата</string>
-    <string name="pref_about_version_name_title">Име на верзијата</string>
+    <string name="pref_about_author_summary">Alex_Kuzmi444</string>
+    <string name="pref_about_author_title">Автор форка</string>
+    <string name="pref_about_version_code_title">Код</string>
+    <string name="pref_about_version_name_title">Верзијата</string>
     <string name="pref_advanced_settings_logging_title">Дневник</string>
     <string name="pref_advanced_settings_priority_dialog_title">Изберете приоритет на дневникот</string>
     <string name="pref_advanced_settings_priority_title">Приоритет на евиденција</string>

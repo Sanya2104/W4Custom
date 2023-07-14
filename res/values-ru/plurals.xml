@@ -4,6 +4,22 @@
         <item quantity="other">Не удалось выполнить проверку зависимости для групп полей (%s)</item>
         <item quantity="one">Не удалось выполнить проверку зависимости для группы полей (%s)</item>
     </plurals>
+    <plurals name="days">
+        <item quantity="other">@string/days</item>
+        <item quantity="one">@string/day</item>
+    </plurals>
+    <plurals name="discarded_message">
+        <item quantity="other">@string/task_list_tasks_discarded_message</item>
+        <item quantity="one">@string/task_list_task_discarded_message</item>
+    </plurals>
+    <plurals name="download_failed">
+        <item quantity="other">@string/task_action_dialog_tasks_download_failed</item>
+        <item quantity="one">@string/task_action_dialog_task_download_failed</item>
+    </plurals>
+    <plurals name="download_success">
+        <item quantity="other">@string/task_action_dialog_tasks_successfully_downloaded</item>
+        <item quantity="one">@string/task_action_dialog_task_successfully_downloaded</item>
+    </plurals>
     <plurals name="joda_time_android_abbrev_in_num_days">
         <item quantity="other">через %d дн.</item>
         <item quantity="one">завтра</item>
@@ -85,5 +101,17 @@
         <item quantity="one">%d новое уведомление</item>
         <item quantity="few">%d новых уведомления</item>
         <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="selection">
+        <item quantity="other">@string/task_list_selection_title_plural</item>
+        <item quantity="one">@string/task_list_selection_title_singular</item>
+    </plurals>
+    <plurals name="upload_failed">
+        <item quantity="other">@string/task_action_dialog_tasks_upload_failed</item>
+        <item quantity="one">@string/task_action_dialog_task_upload_failed</item>
+    </plurals>
+    <plurals name="upload_success">
+        <item quantity="other">@string/task_action_dialog_tasks_successfully_uploaded</item>
+        <item quantity="one">@string/task_action_dialog_task_successfully_uploaded</item>
     </plurals>
 </resources>

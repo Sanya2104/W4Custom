@@ -438,8 +438,10 @@ Pritisnite link koja će pokrenuti aplikaciju i automatski inicijalizirati postu
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="please_wait">Pričekaj…</string>
     <string name="pref_about_privacy_policy_title">Politika privatnosti</string>
-    <string name="pref_about_version_code_title">Kod verzije</string>
-    <string name="pref_about_version_name_title">Naziv verzije</string>
+    <string name="pref_about_author_summary">Alex_Kuzmi444</string>
+    <string name="pref_about_author_title">Author fork</string>
+    <string name="pref_about_version_code_title">Build</string>
+    <string name="pref_about_version_name_title">Verzije</string>
     <string name="pref_advanced_settings_logging_title">Zapisnik</string>
     <string name="pref_advanced_settings_priority_dialog_title">Odaberite prioritet zapisivanja</string>
     <string name="pref_advanced_settings_priority_title">Prioritet zapisivanja</string>

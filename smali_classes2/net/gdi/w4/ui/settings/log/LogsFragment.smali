@@ -322,7 +322,7 @@
 
     invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v1, "\n                            Application version: 0.0.1\n                            Application version: Build#1\n                            Android device: "
+    const-string v1, "\n                            Application version: 0.0.1\n                            Application version: 150723\n                            Android device: "
 
     invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

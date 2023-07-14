@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="arcgisruntime_contingency_validation_for_field_group">
-        <item quantity="other">Validasi kontingensi gagal untuk grup kolom (%s)</item>
-        <item quantity="one">Validasi kontingensi gagal untuk grup kolom (%s)</item>
-    </plurals>
-</resources>

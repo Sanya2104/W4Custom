@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <com.google.android.material.tabs.TabLayout android:id="@id/workOrderTabs" android:background="@color/colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:tabGravity="center" app:tabIndicatorColor="@android:color/white" app:tabSelectedTextColor="@android:color/white" app:tabTextAppearance="@style/TabLayoutStyle" app:tabTextColor="@android:color/white" />
-    <androidx.viewpager2.widget.ViewPager2 android:id="@id/workOrderViewPager" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/workOrderTabs" />
-</androidx.constraintlayout.widget.ConstraintLayout>

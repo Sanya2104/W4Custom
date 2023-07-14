@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.textfield.TextInputLayout android:id="@id/assetComponentTil" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip" app:boxBackgroundColor="#ffd6d5d2" app:boxCornerRadiusBottomEnd="8.0dip" app:boxCornerRadiusBottomStart="8.0dip" app:boxCornerRadiusTopEnd="8.0dip" app:boxCornerRadiusTopStart="8.0dip" style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <com.google.android.material.textfield.TextInputEditText android:enabled="false" android:textColor="@color/black" android:id="@id/assetComponentTie" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextInputLayoutStyle" />
-</com.google.android.material.textfield.TextInputLayout>

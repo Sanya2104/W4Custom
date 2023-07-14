@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar" android:background="@color/colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/ToolbarStyle" />
-    <com.journeyapps.barcodescanner.DecoratedBarcodeView android:id="@id/zxingBarcodeScanner" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolbar" app:zxing_scanner_layout="@layout/custom_barcode_scanner" app:zxing_use_texture_view="true" />
-    <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/white" android:id="@id/textInfo1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/asset_barcode_scanner_screen_info1" android:layout_centerHorizontal="true" app:drawableEndCompat="@drawable/ic_drop_down" />
-    <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/white" android:id="@id/textInfo2" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/asset_barcode_scanner_screen_info2" android:layout_centerHorizontal="true" />
-    <TextView android:textColor="@color/white" android:id="@id/textInfo3" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/asset_barcode_scanner_screen_info3" android:layout_centerHorizontal="true" />
-</RelativeLayout>

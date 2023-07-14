@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:id="@id/asset_items_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <androidx.recyclerview.widget.RecyclerView android:id="@id/assetItemList" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-    <TextView android:gravity="center" android:id="@id/emptyAssetsView" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/task_asset_screen_empty_list" />
-</FrameLayout>

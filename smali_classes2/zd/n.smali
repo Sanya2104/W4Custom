@@ -39,7 +39,7 @@
 .method public final i()Ljava/lang/String;
     .locals 1
 
-    const-string v0, "Build#1"
+    const-string v0, "150723"
 
     return-object v0
 .end method

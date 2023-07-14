@@ -319,8 +319,10 @@
     <string name="password_toggle_content_description">Паказаць пароль</string>
     <string name="please_wait">Калі ласка пачакай…</string>
     <string name="pref_about_privacy_policy_title">Палітыка прыватнасці</string>
-    <string name="pref_about_version_code_title">Код версіі</string>
-    <string name="pref_about_version_name_title">Назва версіі</string>
+    <string name="pref_about_author_summary">Alex_Kuzmi444</string>
+    <string name="pref_about_author_title">Автор форка</string>
+    <string name="pref_about_version_code_title">Сборка</string>
+    <string name="pref_about_version_name_title">Версія</string>
     <string name="pref_advanced_settings_logging_title">Лог</string>
     <string name="pref_advanced_settings_priority_dialog_title">Выберыце прыярытэт часопіса</string>
     <string name="pref_advanced_settings_priority_title">Прыярытэт часопіса</string>

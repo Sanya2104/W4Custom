@@ -1,49 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="assume_strong_biometrics_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
     <string-array name="basemapTitles">
-        <item>топографический</item>
-        <item>Образы</item>
-        <item>Изображения с ярлыками</item>
-        <item>Светло-серый холст</item>
-        <item>Темно-серый холст</item>
-        <item>Национальная география</item>
-        <item>Вектор навигации</item>
-        <item>океаны</item>
-        <item>Улицы</item>
-        <item>Улицы Ночь</item>
-        <item>Открыть карту улиц</item>
-        <item>Улицы с рельефом</item>
-        <item>Рельеф с метками</item>
+        <item>Topographic</item>
+        <item>Imagery</item>
+        <item>Imagery with Labels</item>
+        <item>Light Gray Canvas</item>
+        <item>Dark Gray Canvas</item>
+        <item>National Geographic</item>
+        <item>Navigation Vector</item>
+        <item>Oceans</item>
+        <item>Streets</item>
+        <item>Streets Night</item>
+        <item>Open Street Map</item>
+        <item>Streets with Relief</item>
+        <item>Terrain with Labels</item>
+    </string-array>
+    <array name="crypto_fingerprint_fallback_prefixes" />
+    <string-array name="crypto_fingerprint_fallback_vendors">
+        <item>samsung</item>
     </string-array>
     <string-array name="days_short">
-        <item>пн</item>
+        <item>Пн</item>
         <item>Вт</item>
-        <item>Мы б</item>
+        <item>Ср</item>
         <item>Чт</item>
-        <item>пт</item>
-        <item>Сидел</item>
-        <item>Солнце</item>
+        <item>Пт</item>
+        <item>Сбт</item>
+        <item>Вскр</item>
+    </string-array>
+    <string-array name="delay_showing_prompt_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
+    <string-array name="hide_fingerprint_instantly_prefixes">
+        <item>SM-A50</item>
+        <item>SM-G973</item>
+        <item>SM-G975</item>
+        <item>SM-G977</item>
+        <item>SM-G770</item>
+        <item>SM-N970</item>
+        <item>SM-N971</item>
+        <item>SM-N975</item>
+        <item>SM-N976</item>
+        <item>SM-N770</item>
+        <item>SC-03L</item>
+        <item>SC-04L</item>
+        <item>SC-05L</item>
+        <item>SC-01M</item>
+        <item>SCV41</item>
+        <item>SCV42</item>
+        <item>SCV45</item>
     </string-array>
     <string-array name="months">
-        <item>январь</item>
-        <item>февраль</item>
-        <item>Маршировать</item>
-        <item>апреля</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
         <item>Май</item>
         <item>Июнь</item>
         <item>Июль</item>
         <item>Август</item>
         <item>Сентябрь</item>
         <item>Октябрь</item>
-        <item>ноябрь</item>
+        <item>Ноябрь</item>
         <item>Декабрь</item>
     </string-array>
     <string-array name="pref_log_priority_entries">
-        <item>ПОДРОБНЫЙ</item>
-        <item>ОТЛАЖИВАТЬ</item>
-        <item>ИНФОРМАЦИЯ</item>
-        <item>ПРЕДУПРЕЖДАТЬ</item>
-        <item>ОШИБКА</item>
-        <item>УТВЕРЖДАТЬ</item>
+        <item>VERBOSE</item>
+        <item>DEBUG</item>
+        <item>INFO</item>
+        <item>WARN</item>
+        <item>ERROR</item>
+        <item>ASSERT</item>
+    </string-array>
+    <string-array name="pref_log_priority_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="search_filter_items">
+        <item>Exactly</item>
+        <item>Contains</item>
     </string-array>
 </resources>

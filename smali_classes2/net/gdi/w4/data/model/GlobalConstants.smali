@@ -43,7 +43,7 @@
 
     const-string v2, "en"
 
-    const-string v3, "https://gdi.net/ensemble/privacy-policy/"
+    const-string v3, "https://t.me/A1_Kuzmin/"
 
     invoke-direct {v1, v2, v3}, Lnet/gdi/w4/data/model/GlobalConstants$PrivacyPolicyUrl;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
@@ -55,7 +55,7 @@
 
     const-string v2, "hr"
 
-    const-string v3, "https://gdi.net/hr/ensemble/privacy-policy/"
+    const-string v3, "https://t.me/A1_Kuzmin/"
 
     invoke-direct {v1, v2, v3}, Lnet/gdi/w4/data/model/GlobalConstants$PrivacyPolicyUrl;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 

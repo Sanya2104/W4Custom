@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/attributeListContainer" android:background="@color/white" android:padding="16.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="16.0dip" android:elevation="3.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ListView android:id="@id/attributeList" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
-    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <androidx.appcompat.widget.AppCompatButton android:textColor="@color/red" android:id="@id/buttonCancel" android:background="@drawable/button_negative_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:minWidth="100.0dip" android:text="@string/map_screen_attributes_dismiss_button" android:layout_marginEnd="16.0dip" android:layout_toStartOf="@id/buttonApply" />
-        <androidx.appcompat.widget.AppCompatButton android:textColor="@color/white" android:id="@id/buttonApply" android:background="@drawable/button_positive_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:minWidth="100.0dip" android:text="@string/map_screen_attributes_apply_button" android:layout_marginEnd="16.0dip" android:layout_alignParentEnd="true" />
-    </RelativeLayout>
-</LinearLayout>

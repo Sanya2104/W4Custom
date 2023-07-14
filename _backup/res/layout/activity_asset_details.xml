@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar" android:background="@color/colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="parent" style="@style/ToolbarStyle">
-        <TextView android:textColor="@color/white" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="start" android:id="@id/tvTitle" android:layout_width="wrap_content" android:layout_height="?actionBarSize" android:maxLines="1" android:layout_marginEnd="8.0dip" style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
-    </androidx.appcompat.widget.Toolbar>
-    <androidx.fragment.app.FragmentContainerView android:name="androidx.navigation.fragment.NavHostFragment" android:id="@id/assetDetailsNavHost" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="0.0dip" app:defaultNavHost="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/toolbar" app:navGraph="@navigation/asset_details_navigation" />
-    <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@id/barcodeFab" android:visibility="gone" android:layout_width="@dimen/width_barcode_fab" android:layout_height="@dimen/height_barcode_fab" android:layout_marginBottom="4.0dip" android:src="@drawable/ic_barcode" android:layout_marginEnd="8.0dip" app:backgroundTint="@color/colorPrimary" app:fabSize="mini" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:tint="@color/white" />
-</androidx.constraintlayout.widget.ConstraintLayout>
