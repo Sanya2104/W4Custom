@@ -532,7 +532,7 @@
 
     move-result-object p1
 
-    const-string v0, "Builder(requireContext()\u2026ot)\n            .create()"
+    const-string v0, "Builder(requireContext()…ot)\n            .create()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

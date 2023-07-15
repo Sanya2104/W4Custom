@@ -372,7 +372,7 @@
 
     move-result-object p1
 
-    const-string v0, "IntentBuilder(requireCon\u2026RANT_READ_URI_PERMISSION)"
+    const-string v0, "IntentBuilder(requireCon…RANT_READ_URI_PERMISSION)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

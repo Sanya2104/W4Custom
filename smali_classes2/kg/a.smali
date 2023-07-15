@@ -108,7 +108,7 @@
 
     if-eqz v0, :cond_0
 
-    const-string v0, "\u2588\u2588"
+    const-string v0, "██"
 
     goto :goto_0
 

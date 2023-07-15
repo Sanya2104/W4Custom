@@ -146,7 +146,7 @@
 
     move-result-object v0
 
-    const-string v1, "{\n            AuthState.\u2026(authStateJson)\n        }"
+    const-string v1, "{\n            AuthState.…(authStateJson)\n        }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -271,7 +271,7 @@
 
     move-result-object v0
 
-    const-string v1, "filterRepository.getFilt\u2026 false\n                })"
+    const-string v1, "filterRepository.getFilt… false\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

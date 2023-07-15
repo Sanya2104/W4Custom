@@ -2208,7 +2208,7 @@
 
     move-result-object p1
 
-    const-string v0, "{\n            val middle\u2026      middleDay\n        }"
+    const-string v0, "{\n            val middle…      middleDay\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3130,7 +3130,7 @@
 
     move-result-object p1
 
-    const-string v0, "registerForActivityResul\u2026}\n            }\n        }"
+    const-string v0, "registerForActivityResul…}\n            }\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

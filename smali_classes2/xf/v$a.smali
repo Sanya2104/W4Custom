@@ -1090,7 +1090,7 @@
 
     move-result v4
 
-    const-string v12, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string v12, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     const/4 v11, -0x1
 

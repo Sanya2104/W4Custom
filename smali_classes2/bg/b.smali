@@ -93,7 +93,7 @@
 
     cmp-long v0, p0, v7
 
-    const-string v7, " \u00b5s"
+    const-string v7, " µs"
 
     const/16 v8, 0x3e8
 

@@ -888,7 +888,7 @@
     move-result-object v2
 
     :goto_4
-    const-string v7, "when (webParts.webPart.w\u2026tabName\n                }"
+    const-string v7, "when (webParts.webPart.w…tabName\n                }"
 
     invoke-static {v2, v7}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

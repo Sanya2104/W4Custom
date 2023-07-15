@@ -223,7 +223,7 @@
 
     move-result-object v0
 
-    const-string v1, "submission.toFlowable(Ba\u2026= it }, { Timber.e(it) })"
+    const-string v1, "submission.toFlowable(Ba…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -459,7 +459,7 @@
 
     move-result-object v6
 
-    const-string v1, "mapOf(\n                L\u2026).let { gson.toJson(it) }"
+    const-string v1, "mapOf(\n                L…).let { gson.toJson(it) }"
 
     invoke-static {v6, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -914,7 +914,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n              \u2026                 .build()"
+    const-string p2, "Builder()\n              …                 .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1142,7 +1142,7 @@
 
     move-result-object p1
 
-    const-string v0, "retrofit.create(TrackerC\u2026igurationApi::class.java)"
+    const-string v0, "retrofit.create(TrackerC…igurationApi::class.java)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1350,7 +1350,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n            .b\u2026ent)\n            .build()"
+    const-string p2, "Builder()\n            .b…ent)\n            .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1468,7 +1468,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n              \u2026                 .build()"
+    const-string p2, "Builder()\n              …                 .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1488,7 +1488,7 @@
 
     move-result-object p1
 
-    const-string v0, "retrofit.create(Applicat\u2026nSettingsApi::class.java)"
+    const-string v0, "retrofit.create(Applicat…nSettingsApi::class.java)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1652,7 +1652,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n              \u2026                 .build()"
+    const-string p2, "Builder()\n              …                 .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1754,7 +1754,7 @@
 
     move-result-object v0
 
-    const-string v1, "GsonBuilder()\n          \u2026n()\n            .create()"
+    const-string v1, "GsonBuilder()\n          …n()\n            .create()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

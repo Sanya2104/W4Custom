@@ -143,7 +143,7 @@
 
     move-result-object p2
 
-    const-string v0, "createDefault(Pair<List<\u2026ean?>(emptyList(), null))"
+    const-string v0, "createDefault(Pair<List<…ean?>(emptyList(), null))"
 
     invoke-static {p2, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -271,7 +271,7 @@
 
     move-result-object v0
 
-    const-string v1, "refreshTrigger.toFlowabl\u2026(it) }, { Timber.e(it) })"
+    const-string v1, "refreshTrigger.toFlowabl…(it) }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -615,7 +615,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest(\n         \u2026= it }, { Timber.e(it) })"
+    const-string v1, "combineLatest(\n         …= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

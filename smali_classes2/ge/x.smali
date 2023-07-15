@@ -347,7 +347,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskStatusRepository.isT\u2026= it }, { Timber.e(it) })"
+    const-string v1, "taskStatusRepository.isT…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -495,7 +495,7 @@
 
     move-result-object v0
 
-    const-string v1, "commentText\n            \u2026        { Timber.e(it) })"
+    const-string v1, "commentText\n            …        { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -801,7 +801,7 @@
 
     move-result-object v0
 
-    const-string v1, "commentsRepository.getCo\u2026= it }, { Timber.e(it) })"
+    const-string v1, "commentsRepository.getCo…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

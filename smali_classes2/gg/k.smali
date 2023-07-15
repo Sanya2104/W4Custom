@@ -360,7 +360,7 @@
 
     move-result-object p1
 
-    const-string v0, "newSSLContext().apply {\n\u2026ll)\n      }.socketFactory"
+    const-string v0, "newSSLContext().apply {\n…ll)\n      }.socketFactory"
 
     invoke-static {p1, v0}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
     :try_end_0

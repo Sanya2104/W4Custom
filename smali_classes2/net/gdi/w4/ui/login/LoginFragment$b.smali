@@ -99,7 +99,7 @@
 
     move-result-object p1
 
-    const-string p2, "authService.getAuthoriza\u2026equestIntent(authRequest)"
+    const-string p2, "authService.getAuthoriza…equestIntent(authRequest)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

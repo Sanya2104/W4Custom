@@ -90,7 +90,7 @@
     move-result-object p1
 
     :goto_0
-    const-string p2, "try {\n                co\u2026.toString()\n            }"
+    const-string p2, "try {\n                co….toString()\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

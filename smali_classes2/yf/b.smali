@@ -1194,7 +1194,7 @@
 
     move-result-object p0
 
-    const-string p1, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string p1, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {p0, p1}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2073,7 +2073,7 @@
 
     move-result-object p0
 
-    const-string v0, "Collections.unmodifiable\u2026sList(*elements.clone()))"
+    const-string v0, "Collections.unmodifiable…sList(*elements.clone()))"
 
     invoke-static {p0, v0}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

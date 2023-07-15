@@ -290,7 +290,7 @@
 
     move-result-object v1
 
-    const-string v2, "getString(R.string.work_\u2026_selected_features_title)"
+    const-string v2, "getString(R.string.work_…_selected_features_title)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -759,7 +759,7 @@
 
     const/4 v4, -0x1
 
-    const-string v5, "\u2026]"
+    const-string v5, "…]"
 
     const/16 v6, 0x5d
 
@@ -918,7 +918,7 @@
 
     move-result-object v8
 
-    const-string v2, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string v2, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {v8, v2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

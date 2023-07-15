@@ -145,7 +145,7 @@
     const-string p1, "TODO"
 
     :goto_0
-    const-string v0, "when (fragments[position\u2026 else -> \"TODO\"\n        }"
+    const-string v0, "when (fragments[position… else -> \"TODO\"\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

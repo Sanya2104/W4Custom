@@ -282,7 +282,7 @@
     invoke-static {v0, p2}, Lsf/l;->a(Lcom/bumptech/glide/j;Landroid/content/Context;)Lcom/bumptech/glide/j;
 
     :cond_0
-    const-string p2, "with(this)\n        .load\u2026this@loadImage.context) }"
+    const-string p2, "with(this)\n        .load…this@loadImage.context) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -357,7 +357,7 @@
     invoke-static {v0, p2}, Lsf/l;->a(Lcom/bumptech/glide/j;Landroid/content/Context;)Lcom/bumptech/glide/j;
 
     :cond_0
-    const-string p2, "with(this)\n        .load\u2026this@loadImage.context) }"
+    const-string p2, "with(this)\n        .load…this@loadImage.context) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

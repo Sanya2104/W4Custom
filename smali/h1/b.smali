@@ -29,7 +29,7 @@
 
     move-result-object v0
 
-    const-string v1, "checkNotNull(activity.dr\u2026 }.actionBarThemedContext"
+    const-string v1, "checkNotNull(activity.dr… }.actionBarThemedContext"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

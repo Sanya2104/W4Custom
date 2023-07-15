@@ -131,7 +131,7 @@
 
     move-result-object p0
 
-    const-string v0, "with(entries.iterator().\u2026ingletonMap(key, value) }"
+    const-string v0, "with(entries.iterator().…ingletonMap(key, value) }"
 
     invoke-static {p0, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

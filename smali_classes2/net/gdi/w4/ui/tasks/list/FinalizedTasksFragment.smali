@@ -318,7 +318,7 @@
     move-result-object p1
 
     :cond_0
-    const-string v0, "viewModel.dateTimeOfFina\u2026().withTimeAtStartOfDay()"
+    const-string v0, "viewModel.dateTimeOfFina…().withTimeAtStartOfDay()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

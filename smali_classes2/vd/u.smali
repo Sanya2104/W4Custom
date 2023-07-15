@@ -269,7 +269,7 @@
 
     move-result-object v0
 
-    const-string v1, "networkStateService\n    \u2026r.e(it)\n                }"
+    const-string v1, "networkStateService\n    …r.e(it)\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -359,7 +359,7 @@
 
     move-result-object v0
 
-    const-string v1, "mapDownloadRepository.ge\u2026= it }, { Timber.e(it) })"
+    const-string v1, "mapDownloadRepository.ge…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

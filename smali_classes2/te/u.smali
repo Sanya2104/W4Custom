@@ -745,7 +745,7 @@
 
     move-result-object v0
 
-    const-string v1, "{\n            Flowable.j\u2026 taskTypeKind))\n        }"
+    const-string v1, "{\n            Flowable.j… taskTypeKind))\n        }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -782,7 +782,7 @@
 
     move-result-object v0
 
-    const-string v1, "{\n            taskStatus\u2026taskTypeKind) }\n        }"
+    const-string v1, "{\n            taskStatus…taskTypeKind) }\n        }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1209,7 +1209,7 @@
 
     move-result-object p1
 
-    const-string v0, "just(job)\n            .m\u2026= it }, { Timber.e(it) })"
+    const-string v0, "just(job)\n            .m…= it }, { Timber.e(it) })"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

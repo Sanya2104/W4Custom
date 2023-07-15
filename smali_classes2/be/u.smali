@@ -359,7 +359,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest(\n         \u2026= it }, { Timber.e(it) })"
+    const-string v1, "combineLatest(\n         …= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -536,7 +536,7 @@
 
     move-result-object v0
 
-    const-string v1, "zip(\n            fetchTa\u2026.e(it)\n                })"
+    const-string v1, "zip(\n            fetchTa….e(it)\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -823,7 +823,7 @@
 
     move-result-object p0
 
-    const-string p1, "{\n                      \u2026) }\n                    }"
+    const-string p1, "{\n                      …) }\n                    }"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1006,7 +1006,7 @@
 
     move-result-object p1
 
-    const-string v0, "tasksRepository.getLocal\u2026          }\n            }"
+    const-string v0, "tasksRepository.getLocal…          }\n            }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

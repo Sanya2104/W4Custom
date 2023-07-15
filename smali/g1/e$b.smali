@@ -220,7 +220,7 @@
 
     move-result-object p1
 
-    const-string p2, "context.resources.obtain\u2026leable.FragmentNavigator)"
+    const-string p2, "context.resources.obtain…leable.FragmentNavigator)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

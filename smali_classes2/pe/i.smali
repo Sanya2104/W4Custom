@@ -630,7 +630,7 @@
 
     move-result-object v0
 
-    const-string v1, "getString(R.string.selec\u2026ld_material_dialog_title)"
+    const-string v1, "getString(R.string.selec…ld_material_dialog_title)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

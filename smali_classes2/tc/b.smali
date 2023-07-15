@@ -117,7 +117,7 @@
 
     move-result-object p0
 
-    const-string v0, "gson.fromJson(value, obj\u2026ing, String?>>() {}.type)"
+    const-string v0, "gson.fromJson(value, obj…ing, String?>>() {}.type)"
 
     invoke-static {p0, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

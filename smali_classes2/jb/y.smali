@@ -1138,7 +1138,7 @@
 
     move-result-object p0
 
-    const-string p1, "joinTo(StringBuilder(), \u2026ed, transform).toString()"
+    const-string p1, "joinTo(StringBuilder(), …ed, transform).toString()"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -40,7 +40,7 @@
 
     move-result-object p1
 
-    const-string p2, "serviceFeatureTable.quer\u2026reCountAsync(queryParams)"
+    const-string p2, "serviceFeatureTable.quer…reCountAsync(queryParams)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -75,7 +75,7 @@
 
     move-result-object p1
 
-    const-string p2, "serviceFeatureTable.quer\u2026ryFeatureFields.LOAD_ALL)"
+    const-string p2, "serviceFeatureTable.quer…ryFeatureFields.LOAD_ALL)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

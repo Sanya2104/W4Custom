@@ -360,7 +360,7 @@
 
     move-result-object v0
 
-    const-string v1, "workerService.getWorkerI\u2026erInfo(gson.toJson(it)) }"
+    const-string v1, "workerService.getWorkerI…erInfo(gson.toJson(it)) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -425,7 +425,7 @@
 
     move-result-object v0
 
-    const-string v1, "rxSharedPreferences\n    \u2026          }\n            }"
+    const-string v1, "rxSharedPreferences\n    …          }\n            }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -521,7 +521,7 @@
 
     move-result-object v0
 
-    const-string v1, "rxSharedPreferences\n    \u2026emptyList()\n            }"
+    const-string v1, "rxSharedPreferences\n    …emptyList()\n            }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -536,7 +536,7 @@
 
     move-result-object v0
 
-    const-string v1, "documentTypeRepository.g\u2026= it }, { Timber.e(it) })"
+    const-string v1, "documentTypeRepository.g…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

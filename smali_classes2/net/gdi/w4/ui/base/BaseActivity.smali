@@ -65,7 +65,7 @@
 
     move-result-object v0
 
-    const-string v1, "Builder(this)\n          \u2026                .create()"
+    const-string v1, "Builder(this)\n          …                .create()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

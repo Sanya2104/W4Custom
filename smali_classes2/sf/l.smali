@@ -54,7 +54,7 @@
 
     move-result-object p0
 
-    const-string p1, "placeholder(CircularProg\u2026t)\n        start()\n    })"
+    const-string p1, "placeholder(CircularProg…t)\n        start()\n    })"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -104,7 +104,7 @@
 
     move-result-object p0
 
-    const-string p1, "onSuccess: (() -> Unit)?\u2026       }\n        })\n    }"
+    const-string p1, "onSuccess: (() -> Unit)?…       }\n        })\n    }"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

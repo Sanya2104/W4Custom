@@ -89,7 +89,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationReceived.hid\u2026kpressureStrategy.BUFFER)"
+    const-string v1, "notificationReceived.hid…kpressureStrategy.BUFFER)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

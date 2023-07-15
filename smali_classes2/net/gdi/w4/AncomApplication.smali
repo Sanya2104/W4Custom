@@ -147,7 +147,7 @@
 
     move-result-object v1
 
-    const-string v2, "getString(R.string.locat\u2026king_channel_description)"
+    const-string v2, "getString(R.string.locat…king_channel_description)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

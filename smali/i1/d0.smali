@@ -59,7 +59,7 @@
 
     move-result-object p2
 
-    const-string v0, "DiffUtil.calculateDiff(\n\u2026    },\n        true\n    )"
+    const-string v0, "DiffUtil.calculateDiff(\n…    },\n        true\n    )"
 
     invoke-static {p2, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -611,7 +611,7 @@
 
     move-result-object v1
 
-    const-string v2, "tasksRepository.uploadTa\u2026load task\")\n            }"
+    const-string v2, "tasksRepository.uploadTa…load task\")\n            }"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -685,7 +685,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026     }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…     }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2025,7 +2025,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest(\n         \u2026= it }, { Timber.e(it) })"
+    const-string v1, "combineLatest(\n         …= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2212,7 +2212,7 @@
 
     move-result-object p1
 
-    const-string v0, "combineLatest(\n         \u2026     }, { Timber.e(it) })"
+    const-string v0, "combineLatest(\n         …     }, { Timber.e(it) })"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2437,7 +2437,7 @@
 
     move-result-object v0
 
-    const-string v1, "fetchTask()\n            \u2026.e(it)\n                })"
+    const-string v1, "fetchTask()\n            ….e(it)\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2679,7 +2679,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskStatusRepository.isT\u2026= it }, { Timber.e(it) })"
+    const-string v1, "taskStatusRepository.isT…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2852,7 +2852,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026     }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…     }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3822,7 +3822,7 @@
 
     move-result-object p1
 
-    const-string v0, "zip(\n            tasksRe\u2026)\n            }\n        }"
+    const-string v0, "zip(\n            tasksRe…)\n            }\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

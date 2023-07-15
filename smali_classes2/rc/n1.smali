@@ -354,7 +354,7 @@
 
     move-result-object p1
 
-    const-string p2, "taskInfoRepository.getTa\u2026edTaskItem)\n            }"
+    const-string p2, "taskInfoRepository.getTa…edTaskItem)\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1451,7 +1451,7 @@
 
     move-result-object p1
 
-    const-string v0, "taskInfoRepository.getTa\u2026Model(apiTaskItems, it) }"
+    const-string v0, "taskInfoRepository.getTa…Model(apiTaskItems, it) }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2658,7 +2658,7 @@
 
     move-result-object p1
 
-    const-string p2, "stateDao.get(taskStateMo\u2026Entities, taskItem, it) }"
+    const-string p2, "stateDao.get(taskStateMo…Entities, taskItem, it) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3088,7 +3088,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(context.getString(R\u2026endar_unscheduled_tasks))"
+    const-string p2, "just(context.getString(R…endar_unscheduled_tasks))"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3174,7 +3174,7 @@
 
     move-result-object p1
 
-    const-string v0, "taskListRepository.getTa\u2026.taskId } }\n            }"
+    const-string v0, "taskListRepository.getTa….taskId } }\n            }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="arcgisruntime_contingency_validation_for_field_group">
-        <item quantity="other">אימות היתכנות נכשל עבור קבוצות שדות (%s)</item>
-        <item quantity="one">אימות היתכנות נכשל עבור קבוצת שדות (%s)</item>
-    </plurals>
-</resources>

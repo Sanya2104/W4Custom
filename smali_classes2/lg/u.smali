@@ -211,7 +211,7 @@
 
     invoke-virtual {v0, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
-    const-string p1, "\u2026"
+    const-string p1, "…"
 
     invoke-virtual {v0, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -1199,7 +1199,7 @@
 
     move-result-object v1
 
-    const-string v2, "java.lang.Integer.toStri\u2026(this, checkRadix(radix))"
+    const-string v2, "java.lang.Integer.toStri…(this, checkRadix(radix))"
 
     invoke-static {v1, v2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

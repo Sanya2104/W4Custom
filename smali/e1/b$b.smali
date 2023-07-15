@@ -426,7 +426,7 @@
 
     move-result-object p2
 
-    const-string v0, "context.resources.obtain\u2026tyNavigator\n            )"
+    const-string v0, "context.resources.obtain…tyNavigator\n            )"
 
     invoke-static {p2, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

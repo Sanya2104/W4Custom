@@ -1969,7 +1969,7 @@
 
     move-result-object p2
 
-    const-string v0, "context.resources.obtain\u2026s, R.styleable.Navigator)"
+    const-string v0, "context.resources.obtain…s, R.styleable.Navigator)"
 
     invoke-static {p2, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

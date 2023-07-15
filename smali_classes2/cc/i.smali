@@ -337,7 +337,7 @@
 
     move-result-object p0
 
-    const-string p1, "mapIndexedNotNull { inde\u2026\"\\n\")\n        .toString()"
+    const-string p1, "mapIndexedNotNull { inde…\"\\n\")\n        .toString()"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -593,7 +593,7 @@
 
     move-result-object v0
 
-    const-string v1, "mapIndexedNotNull { inde\u2026\"\\n\")\n        .toString()"
+    const-string v1, "mapIndexedNotNull { inde…\"\\n\")\n        .toString()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

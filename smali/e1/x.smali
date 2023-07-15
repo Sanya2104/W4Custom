@@ -209,7 +209,7 @@
 
     move-result-object v1
 
-    const-string v2, "res.obtainAttributes(att\u2026n.R.styleable.NavInclude)"
+    const-string v2, "res.obtainAttributes(att…n.R.styleable.NavInclude)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -882,7 +882,7 @@
 
     move-result-object p3
 
-    const-string v0, "res.obtainAttributes(att\u2026 R.styleable.NavArgument)"
+    const-string v0, "res.obtainAttributes(att… R.styleable.NavArgument)"
 
     invoke-static {p3, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -932,7 +932,7 @@
 
     move-result-object p3
 
-    const-string v0, "res.obtainAttributes(att\u2026 R.styleable.NavArgument)"
+    const-string v0, "res.obtainAttributes(att… R.styleable.NavArgument)"
 
     invoke-static {p3, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -975,7 +975,7 @@
 
     move-result-object p1
 
-    const-string p3, "res.obtainAttributes(att\u2026 R.styleable.NavDeepLink)"
+    const-string p3, "res.obtainAttributes(att… R.styleable.NavDeepLink)"
 
     invoke-static {p1, p3}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

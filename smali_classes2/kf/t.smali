@@ -82,7 +82,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.getString(R.stri\u2026sk_details_creation_form)"
+    const-string v0, "context.getString(R.stri…sk_details_creation_form)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -101,7 +101,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.getString(R.stri\u2026asset_screen_title_label)"
+    const-string v0, "context.getString(R.stri…asset_screen_title_label)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -120,7 +120,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.getString(R.stri\u2026ument_screen_title_label)"
+    const-string v0, "context.getString(R.stri…ument_screen_title_label)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

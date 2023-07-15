@@ -640,7 +640,7 @@
 
     move-result-object v0
 
-    const-string v1, "apiTaskInfoDao.observe()\u2026= it) }\n                }"
+    const-string v1, "apiTaskInfoDao.observe()…= it) }\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -970,7 +970,7 @@
 
     move-result-object v0
 
-    const-string v1, "tasksService.getTaskInfo\u2026{ insertApiTaskInfo(it) }"
+    const-string v1, "tasksService.getTaskInfo…{ insertApiTaskInfo(it) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

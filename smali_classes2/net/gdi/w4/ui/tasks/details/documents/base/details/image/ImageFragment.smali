@@ -322,7 +322,7 @@
 
     move-result-object p1
 
-    const-string v0, "TransitionSet()\n        \u2026tOutSlowInInterpolator())"
+    const-string v0, "TransitionSet()\n        …tOutSlowInInterpolator())"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

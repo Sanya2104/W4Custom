@@ -977,7 +977,7 @@
 
     move-result-object v0
 
-    const-string v1, "getString(R.string.downl\u2026e_map_estimated_size, it)"
+    const-string v1, "getString(R.string.downl…e_map_estimated_size, it)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1311,7 +1311,7 @@
 
     move-result-object v0
 
-    const-string v1, "Builder(requireContext()\u2026                .create()"
+    const-string v1, "Builder(requireContext()…                .create()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

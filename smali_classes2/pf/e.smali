@@ -105,7 +105,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.getString(R.stri\u2026unsent_work_orders_title)"
+    const-string v0, "context.getString(R.stri…unsent_work_orders_title)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

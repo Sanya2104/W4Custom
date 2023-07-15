@@ -161,7 +161,7 @@
 
     move-result-object p0
 
-    const-string p1, "preview.surfaceHolder\n  \u2026lay)\n            .surface"
+    const-string p1, "preview.surfaceHolder\n  …lay)\n            .surface"
 
     invoke-static {p0, p1}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

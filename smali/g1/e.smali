@@ -213,7 +213,7 @@
 
     move-result-object v6
 
-    const-string v7, "fragmentManager.fragment\u2026t.classLoader, className)"
+    const-string v7, "fragmentManager.fragment…t.classLoader, className)"
 
     invoke-static {v6, v7}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

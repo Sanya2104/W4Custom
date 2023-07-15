@@ -169,7 +169,7 @@
 
     move-result-object v0
 
-    const-string v1, "locationTrackingDispatch\u2026king }, { Timber.e(it) })"
+    const-string v1, "locationTrackingDispatch…king }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -235,7 +235,7 @@
 
     move-result-object v0
 
-    const-string v1, "networkStateService.obse\u2026line }, { Timber.e(it) })"
+    const-string v1, "networkStateService.obse…line }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

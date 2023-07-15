@@ -232,7 +232,7 @@
 
     move-result-object p1
 
-    const-string v0, "configurationService.get\u2026 State.LoginFailed(it) })"
+    const-string v0, "configurationService.get… State.LoginFailed(it) })"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -511,7 +511,7 @@
 
     move-result-object p1
 
-    const-string p2, "authRequestBuilder\n     \u2026                 .build()"
+    const-string p2, "authRequestBuilder\n     …                 .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

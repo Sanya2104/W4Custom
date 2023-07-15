@@ -1812,7 +1812,7 @@
 
     move-result-object p1
 
-    const-string p2, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string p2, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {p1, p2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

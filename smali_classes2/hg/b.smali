@@ -104,7 +104,7 @@
 
     move-result-object p1
 
-    const-string p2, "x509TrustManagerExtensio\u2026ficates, \"RSA\", hostname)"
+    const-string p2, "x509TrustManagerExtensio…ficates, \"RSA\", hostname)"
 
     invoke-static {p1, p2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
     :try_end_0

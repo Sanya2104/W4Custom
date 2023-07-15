@@ -127,7 +127,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n              \u2026\n                .build()"
+    const-string p2, "Builder()\n              …\n                .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -218,7 +218,7 @@
 
     move-result-object p1
 
-    const-string v0, "activity\n               \u2026ng_gps_cannot_be_enabled)"
+    const-string v0, "activity\n               …ng_gps_cannot_be_enabled)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

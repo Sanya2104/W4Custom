@@ -375,7 +375,7 @@
     move-result-object p1
 
     :goto_0
-    const-string v0, "when (requiredMapSelecti\u2026     else -> \"\"\n        }"
+    const-string v0, "when (requiredMapSelecti…     else -> \"\"\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

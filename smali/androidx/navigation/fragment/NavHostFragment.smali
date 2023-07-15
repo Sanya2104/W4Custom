@@ -153,7 +153,7 @@
 
     move-result-object v0
 
-    const-string v2, "context as OnBackPressed\u2026).onBackPressedDispatcher"
+    const-string v2, "context as OnBackPressed…).onBackPressedDispatcher"
 
     invoke-static {v0, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -429,7 +429,7 @@
 
     move-result-object p3
 
-    const-string v0, "context.obtainStyledAttr\u2026yleable.NavHost\n        )"
+    const-string v0, "context.obtainStyledAttr…yleable.NavHost\n        )"
 
     invoke-static {p3, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -456,7 +456,7 @@
 
     move-result-object p1
 
-    const-string p2, "context.obtainStyledAttr\u2026tyleable.NavHostFragment)"
+    const-string p2, "context.obtainStyledAttr…tyleable.NavHostFragment)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

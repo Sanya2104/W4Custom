@@ -254,7 +254,7 @@
 
     move-result-object p0
 
-    const-string p1, "if (Build.VERSION.SDK_IN\u2026acingExtra, includePad)\n}"
+    const-string p1, "if (Build.VERSION.SDK_IN…acingExtra, includePad)\n}"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

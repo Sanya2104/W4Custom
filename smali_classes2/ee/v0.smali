@@ -1047,7 +1047,7 @@
 
     move-result-object v0
 
-    const-string v1, "onScrollStateChange.hide\u2026= it }, { Timber.e(it) })"
+    const-string v1, "onScrollStateChange.hide…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1456,7 +1456,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026cond }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…cond }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1714,7 +1714,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026cond }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…cond }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2013,7 +2013,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026     }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…     }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2681,7 +2681,7 @@
 
     move-result-object v0
 
-    const-string v1, "onPageChange\n           \u2026     }, { Timber.e(it) })"
+    const-string v1, "onPageChange\n           …     }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2942,7 +2942,7 @@
 
     move-result-object p1
 
-    const-string v0, "tasksRepository.getLocal\u2026 .onErrorReturnItem(task)"
+    const-string v0, "tasksRepository.getLocal… .onErrorReturnItem(task)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3468,7 +3468,7 @@
 
     move-result-object v0
 
-    const-string v1, "tasksRepository.fetchWeb\u2026ormioTranslations(task) }"
+    const-string v1, "tasksRepository.fetchWeb…ormioTranslations(task) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

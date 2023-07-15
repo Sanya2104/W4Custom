@@ -71,7 +71,7 @@
 
     move-result-object p1
 
-    const-string v0, "defaultDateFormatter(num\u2026leDays).format(date.time)"
+    const-string v0, "defaultDateFormatter(num…leDays).format(date.time)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

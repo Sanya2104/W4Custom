@@ -582,7 +582,7 @@
 
     invoke-static {v0}, Lub/n;->f(Ljava/lang/Object;)V
 
-    const-string v1, "createTaskStackBuilder()\u2026LAG_IMMUTABLE\n        )!!"
+    const-string v1, "createTaskStackBuilder()…LAG_IMMUTABLE\n        )!!"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -624,7 +624,7 @@
 
     move-result-object v0
 
-    const-string v1, "create(context)\n        \u2026rentStack(Intent(intent))"
+    const-string v1, "create(context)\n        …rentStack(Intent(intent))"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

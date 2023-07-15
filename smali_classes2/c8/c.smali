@@ -556,7 +556,7 @@
     goto :goto_0
 
     :cond_5
-    const-string v4, "\u001e\u0004"
+    const-string v4, ""
 
     packed-switch v2, :pswitch_data_0
 
@@ -588,7 +588,7 @@
     return-object p0
 
     :pswitch_3
-    const-string v2, "[)>\u001e06\u001d"
+    const-string v2, "[)>06"
 
     invoke-virtual {p1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -597,7 +597,7 @@
     goto :goto_0
 
     :pswitch_4
-    const-string v2, "[)>\u001e05\u001d"
+    const-string v2, "[)>05"
 
     invoke-virtual {p1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

@@ -106,7 +106,7 @@
 
     move-result-object v1
 
-    const-string v2, "this.getString(R.string.\u2026tric_propmt_dialog_title)"
+    const-string v2, "this.getString(R.string.…tric_propmt_dialog_title)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -116,7 +116,7 @@
 
     move-result-object v2
 
-    const-string v3, "this.getString(R.string.\u2026c_prompt_dialog_subtitle)"
+    const-string v3, "this.getString(R.string.…c_prompt_dialog_subtitle)"
 
     invoke-static {v2, v3}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

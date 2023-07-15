@@ -4607,7 +4607,7 @@
 
     move-result-object v0
 
-    const-string v1, "create(context)\n        \u2026ntWithParentStack(intent)"
+    const-string v1, "create(context)\n        …ntWithParentStack(intent)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

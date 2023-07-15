@@ -145,7 +145,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest(\n         \u2026= it }, { Timber.e(it) })"
+    const-string v1, "combineLatest(\n         …= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -257,7 +257,7 @@
 
     move-result-object v0
 
-    const-string v1, "rxSharedPreferences.getB\u2026  .distinctUntilChanged()"
+    const-string v1, "rxSharedPreferences.getB…  .distinctUntilChanged()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -294,7 +294,7 @@
 
     move-result-object v0
 
-    const-string v1, "workerRepository.observe\u2026  .distinctUntilChanged()"
+    const-string v1, "workerRepository.observe…  .distinctUntilChanged()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

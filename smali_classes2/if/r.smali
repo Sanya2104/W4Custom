@@ -164,7 +164,7 @@
 
     move-result-object v6
 
-    const-string p1, "mapOf(\n                L\u2026).let { gson.toJson(it) }"
+    const-string p1, "mapOf(\n                L…).let { gson.toJson(it) }"
 
     invoke-static {v6, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

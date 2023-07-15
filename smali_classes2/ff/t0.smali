@@ -1220,7 +1220,7 @@
 
     move-result-object v0
 
-    const-string v1, "networkStateService\n    \u2026r.e(it)\n                }"
+    const-string v1, "networkStateService\n    …r.e(it)\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2013,7 +2013,7 @@
 
     move-result-object v5
 
-    const-string v8, "gson.fromJson<Map<String\u2026(spatialRefJson, mapType)"
+    const-string v8, "gson.fromJson<Map<String…(spatialRefJson, mapType)"
 
     invoke-static {v5, v8}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

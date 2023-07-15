@@ -150,7 +150,7 @@
 
     move-result-object v0
 
-    const-string v1, "resources.getStringArray\u2026rray.search_filter_items)"
+    const-string v1, "resources.getStringArray…rray.search_filter_items)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -295,7 +295,7 @@
 
     move-result-object v7
 
-    const-string v8, "getString(R.string.work_\u2026ist_paging_error_message)"
+    const-string v8, "getString(R.string.work_…ist_paging_error_message)"
 
     invoke-static {v7, v8}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -784,7 +784,7 @@
 
     move-result-object v1
 
-    const-string v2, "getString(R.string.work_\u2026dditional_features_title)"
+    const-string v2, "getString(R.string.work_…dditional_features_title)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -840,7 +840,7 @@
 
     move-result-object v1
 
-    const-string v2, "binding.searchView.findV\u2026at.R.id.search_close_btn)"
+    const-string v2, "binding.searchView.findV…at.R.id.search_close_btn)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

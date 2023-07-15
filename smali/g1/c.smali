@@ -159,7 +159,7 @@
 
     move-result-object v1
 
-    const-string v2, "fragmentManager.fragment\u2026ader, className\n        )"
+    const-string v2, "fragmentManager.fragment…ader, className\n        )"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -181,7 +181,7 @@
 
     move-result-object p1
 
-    const-string p2, "context.resources.obtain\u2026ntNavigator\n            )"
+    const-string p2, "context.resources.obtain…ntNavigator\n            )"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

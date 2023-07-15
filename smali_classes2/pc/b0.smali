@@ -143,7 +143,7 @@
 
     move-result-object v0
 
-    const-string v1, "networkAvailable.hide().\u2026kpressureStrategy.BUFFER)"
+    const-string v1, "networkAvailable.hide().…kpressureStrategy.BUFFER)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

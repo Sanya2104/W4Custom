@@ -52,7 +52,7 @@
 
     move-result-object p0
 
-    const-string v0, "setTagIfAbsent(\n        \u2026Main.immediate)\n        )"
+    const-string v0, "setTagIfAbsent(\n        …Main.immediate)\n        )"
 
     invoke-static {p0, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

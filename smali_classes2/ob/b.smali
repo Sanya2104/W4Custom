@@ -25,7 +25,7 @@
 
     const-string v5, "null cannot be cast to non-null type kotlin.internal.PlatformImplementations"
 
-    const-string v6, "forName(\"kotlin.internal\u2026entations\").newInstance()"
+    const-string v6, "forName(\"kotlin.internal…entations\").newInstance()"
 
     const v7, 0x10008
 
@@ -469,7 +469,7 @@
 
     move-result-object v2
 
-    const-string v3, "this as java.lang.String\u2026ing(startIndex, endIndex)"
+    const-string v3, "this as java.lang.String…ing(startIndex, endIndex)"
 
     invoke-static {v2, v3}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

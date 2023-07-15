@@ -346,7 +346,7 @@
 
     move-result-object p0
 
-    const-string p1, "obtainStyledAttributes(t\u2026, intArrayOf(resourceId))"
+    const-string p1, "obtainStyledAttributes(t…, intArrayOf(resourceId))"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

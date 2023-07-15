@@ -147,7 +147,7 @@
 
     invoke-interface {v2, v3, v1}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
 
-    const-string v2, "navArgsClass.java.getMet\u2026hod\n                    }"
+    const-string v2, "navArgsClass.java.getMet…hod\n                    }"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

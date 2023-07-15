@@ -858,7 +858,7 @@
 
     move-result-object v0
 
-    const-string v1, "applicationSettingsServi\u2026mber.e(it)\n            })"
+    const-string v1, "applicationSettingsServi…mber.e(it)\n            })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1641,7 +1641,7 @@
 
     move-result-object p1
 
-    const-string p2, "fromIterable(taskList)\n \u2026p { toTaskLocations(it) }"
+    const-string p2, "fromIterable(taskList)\n …p { toTaskLocations(it) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1697,7 +1697,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskListRepository\n     \u2026ns = it\n                }"
+    const-string v1, "taskListRepository\n     …ns = it\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1892,7 +1892,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest<LocalDate,\u2026st(it.first, it.second) }"
+    const-string v1, "combineLatest<LocalDate,…st(it.first, it.second) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1985,7 +1985,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskInfoRepository\n     \u2026ap { getTaskLocations() }"
+    const-string v1, "taskInfoRepository\n     …ap { getTaskLocations() }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2667,7 +2667,7 @@
 
     move-result-object v0
 
-    const-string v1, "networkStateService\n    \u2026r.e(it)\n                }"
+    const-string v1, "networkStateService\n    …r.e(it)\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3052,7 +3052,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest<List<Task>\u2026     }, { Timber.e(it) })"
+    const-string v1, "combineLatest<List<Task>…     }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3621,7 +3621,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskStatusDispatcher.obs\u2026      },{ Timber.e(it) })"
+    const-string v1, "taskStatusDispatcher.obs…      },{ Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3871,7 +3871,7 @@
 
     move-result-object v0
 
-    const-string v1, "mapDownloadRepository.ge\u2026= it }, { Timber.e(it) })"
+    const-string v1, "mapDownloadRepository.ge…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3939,7 +3939,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskStatusDispatcher.obs\u2026      },{ Timber.e(it) })"
+    const-string v1, "taskStatusDispatcher.obs…      },{ Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4170,7 +4170,7 @@
 
     move-result-object p1
 
-    const-string p2, "fromIterable(tasks)\n    \u2026            .toFlowable()"
+    const-string p2, "fromIterable(tasks)\n    …            .toFlowable()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4292,7 +4292,7 @@
 
     move-result-object v0
 
-    const-string v1, "selectedDateSubject.hide\u2026= Unit\n                })"
+    const-string v1, "selectedDateSubject.hide…= Unit\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4533,7 +4533,7 @@
 
     move-result-object p0
 
-    const-string p1, "{\n                      \u2026)))\n                    }"
+    const-string p1, "{\n                      …)))\n                    }"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

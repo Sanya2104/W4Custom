@@ -131,7 +131,7 @@
     return-object p1
 
     :cond_1
-    const-string p1, "\ufffd"
+    const-string p1, "�"
 
     return-object p1
 .end method

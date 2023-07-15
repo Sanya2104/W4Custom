@@ -90,7 +90,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(arcGisService.count\u2026, queryParameters).get())"
+    const-string p2, "just(arcGisService.count…, queryParameters).get())"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

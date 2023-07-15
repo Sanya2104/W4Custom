@@ -130,7 +130,7 @@
 
     move-result-object v4
 
-    const-string p2, "context.getString(R.stri\u2026t_wrong_please_try_again)"
+    const-string p2, "context.getString(R.stri…t_wrong_please_try_again)"
 
     invoke-static {v4, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1375,7 +1375,7 @@
 
     move-result-object v0
 
-    const-string v1, "apiTaskListDao.observe()\u2026kItemDao.observe(it.id) }"
+    const-string v1, "apiTaskListDao.observe()…kItemDao.observe(it.id) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1803,7 +1803,7 @@
 
     move-result-object p1
 
-    const-string v0, "fromIterable(taskListIte\u2026Id(taskId))\n            }"
+    const-string v0, "fromIterable(taskListIte…Id(taskId))\n            }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2695,7 +2695,7 @@
 
     move-result-object p1
 
-    const-string v0, "fromIterable(options)\n  \u2026  }\n            .toList()"
+    const-string v0, "fromIterable(options)\n  …  }\n            .toList()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3083,7 +3083,7 @@
 
     move-result-object v4
 
-    const-string p2, "context.getString(R.stri\u2026t_wrong_please_try_again)"
+    const-string p2, "context.getString(R.stri…t_wrong_please_try_again)"
 
     invoke-static {v4, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3169,7 +3169,7 @@
 
     move-result-object p1
 
-    const-string v0, "fromIterable(options)\n  \u2026  }\n            .toList()"
+    const-string v0, "fromIterable(options)\n  …  }\n            .toList()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3446,7 +3446,7 @@
 
     move-result-object p1
 
-    const-string p2, "apiTaskItemDao.observe()\u2026      }\n                }"
+    const-string p2, "apiTaskItemDao.observe()…      }\n                }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3512,7 +3512,7 @@
 
     move-result-object v0
 
-    const-string v1, "tasksService.getTaskList\u2026ndThen(Single.just(Unit))"
+    const-string v1, "tasksService.getTaskList…ndThen(Single.just(Unit))"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3552,7 +3552,7 @@
 
     move-result-object p1
 
-    const-string v0, "tasksService.getTaskList\u2026         .ignoreElement()"
+    const-string v0, "tasksService.getTaskList…         .ignoreElement()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3633,7 +3633,7 @@
 
     move-result-object p1
 
-    const-string p2, "apiTaskItemDao.getByTask\u2026orReturnItem(SIMPLE_TASK)"
+    const-string p2, "apiTaskItemDao.getByTask…orReturnItem(SIMPLE_TASK)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3881,7 +3881,7 @@
 
     move-result-object v0
 
-    const-string v1, "apiTaskListDao.rowCount(\u2026          .map { it > 0 }"
+    const-string v1, "apiTaskListDao.rowCount(…          .map { it > 0 }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3917,7 +3917,7 @@
 
     move-result-object p1
 
-    const-string p2, "tasksRepository.rowExist\u2026reElement()\n            }"
+    const-string p2, "tasksRepository.rowExist…reElement()\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3989,7 +3989,7 @@
 
     move-result-object p1
 
-    const-string v0, "apiTaskItemDao.observe()\u2026mber.e(e) }\n            }"
+    const-string v0, "apiTaskItemDao.observe()…mber.e(e) }\n            }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4013,7 +4013,7 @@
 
     move-result-object p1
 
-    const-string p2, "tasksRepository.rowExist\u2026reElement()\n            }"
+    const-string p2, "tasksRepository.rowExist…reElement()\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4041,7 +4041,7 @@
 
     move-result-object p1
 
-    const-string p2, "tasksRepository.rowExist\u2026reElement()\n            }"
+    const-string p2, "tasksRepository.rowExist…reElement()\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4121,7 +4121,7 @@
 
     move-result-object p1
 
-    const-string v0, "apiTaskItemDao.observe()\u2026.e(e) }\n                }"
+    const-string v0, "apiTaskItemDao.observe()….e(e) }\n                }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

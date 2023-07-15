@@ -519,7 +519,7 @@
 
     move-result-object v0
 
-    const-string v1, "when (this) {\n          \u2026.instance.getString(it) }"
+    const-string v1, "when (this) {\n          ….instance.getString(it) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

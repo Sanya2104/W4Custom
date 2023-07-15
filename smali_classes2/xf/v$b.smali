@@ -712,7 +712,7 @@
 
     move-result-object v0
 
-    const-string v1, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string v1, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {v0, v1}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -885,7 +885,7 @@
 
     move-result-object p1
 
-    const-string p2, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string p2, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {p1, p2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1015,7 +1015,7 @@
 
     move-result v2
 
-    const-string v3, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string v3, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     if-eq v2, v8, :cond_2
 

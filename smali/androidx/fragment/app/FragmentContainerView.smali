@@ -343,7 +343,7 @@
 
     move-result-object v1
 
-    const-string v2, "fm.fragmentFactory.insta\u2026ontext.classLoader, name)"
+    const-string v2, "fm.fragmentFactory.insta…ontext.classLoader, name)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

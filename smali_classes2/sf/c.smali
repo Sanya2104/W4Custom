@@ -394,7 +394,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.resources.getStr\u2026Array(R.array.days_short)"
+    const-string v0, "context.resources.getStr…Array(R.array.days_short)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -438,7 +438,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.resources.getStr\u2026Array(R.array.days_short)"
+    const-string v0, "context.resources.getStr…Array(R.array.days_short)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

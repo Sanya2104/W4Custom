@@ -170,7 +170,7 @@
 
     move-result-object p2
 
-    const-string v3, "cursor.getString(cursor.\u2026bleColumns.DISPLAY_NAME))"
+    const-string v3, "cursor.getString(cursor.…bleColumns.DISPLAY_NAME))"
 
     invoke-static {p2, v3}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -210,7 +210,7 @@
 
     move-result-object p1
 
-    const-string p2, "cursor.getString(cursor.\u2026umnIndexOrThrow(\"_data\"))"
+    const-string p2, "cursor.getString(cursor.…umnIndexOrThrow(\"_data\"))"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

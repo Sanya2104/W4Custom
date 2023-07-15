@@ -253,7 +253,7 @@
 
     move-result-object v0
 
-    const-string v1, "documentsRepository.getD\u2026NavigateUp\n            })"
+    const-string v1, "documentsRepository.getD…NavigateUp\n            })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -594,7 +594,7 @@
 
     move-result-object v0
 
-    const-string p1, "documentsRepository.down\u2026 .map { it.byteStream() }"
+    const-string p1, "documentsRepository.down… .map { it.byteStream() }"
 
     invoke-static {v0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -675,7 +675,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026mber.e(it)\n            })"
+    const-string v1, "notificationDispatcher.o…mber.e(it)\n            })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -499,7 +499,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest<List<JobTo\u2026.e(it)\n                })"
+    const-string v1, "combineLatest<List<JobTo….e(it)\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1109,7 +1109,7 @@
 
     move-result-object v2
 
-    const-string v5, "gson.fromJson(jobToUploa\u2026ocuments, collectionType)"
+    const-string v5, "gson.fromJson(jobToUploa…ocuments, collectionType)"
 
     invoke-static {v2, v5}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

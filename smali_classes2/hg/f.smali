@@ -100,7 +100,7 @@
 
     move-result-object v1
 
-    const-string v2, "sslSocketClass.getDeclar\u2026:class.javaPrimitiveType)"
+    const-string v2, "sslSocketClass.getDeclar…:class.javaPrimitiveType)"
 
     invoke-static {v1, v2}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

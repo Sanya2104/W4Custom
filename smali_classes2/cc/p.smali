@@ -380,7 +380,7 @@
 
     move-result-object v2
 
-    const-string p0, "{\n                    va\u2026tring()\n                }"
+    const-string p0, "{\n                    va…tring()\n                }"
 
     invoke-static {v2, p0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -461,7 +461,7 @@
 
     move-result-object p0
 
-    const-string p1, "this as java.lang.String\u2026replace(oldChar, newChar)"
+    const-string p1, "this as java.lang.String…replace(oldChar, newChar)"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -509,7 +509,7 @@
 
     move-result-object p0
 
-    const-string p1, "StringBuilder(capacity).\u2026builderAction).toString()"
+    const-string p1, "StringBuilder(capacity).…builderAction).toString()"
 
     invoke-static {p0, p1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

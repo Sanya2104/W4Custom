@@ -463,7 +463,7 @@
 
     move-result-object v0
 
-    const-string v1, "getString(R.string.work_\u2026er_failed_upload_message)"
+    const-string v1, "getString(R.string.work_…er_failed_upload_message)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -589,7 +589,7 @@
 
     move-result-object p1
 
-    const-string v0, "requireContext().getStri\u2026ted_message, workOrderId)"
+    const-string v0, "requireContext().getStri…ted_message, workOrderId)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -775,7 +775,7 @@
 
     move-result-object v0
 
-    const-string v1, "getString(R.string.work_\u2026r_upload_confirm_message)"
+    const-string v1, "getString(R.string.work_…r_upload_confirm_message)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

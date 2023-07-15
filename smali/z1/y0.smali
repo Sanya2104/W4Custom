@@ -66,7 +66,7 @@
 
     move-result-object p1
 
-    const-string p2, "spannableStringBuilder\n \u2026        .append(subtitle)"
+    const-string p2, "spannableStringBuilder\n …        .append(subtitle)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

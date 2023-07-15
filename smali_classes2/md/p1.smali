@@ -817,7 +817,7 @@
     goto :goto_2
 
     :cond_6
-    const-string v0, "fetchedIntervals.contain\u2026art ?: startPlusDaysRange"
+    const-string v0, "fetchedIntervals.contain…art ?: startPlusDaysRange"
 
     invoke-static {v1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1139,7 +1139,7 @@
     goto :goto_2
 
     :cond_4
-    const-string v0, "fetchedIntervals.contain\u2026: it.withTimeAtEndOfDay()"
+    const-string v0, "fetchedIntervals.contain…: it.withTimeAtEndOfDay()"
 
     invoke-static {v1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2272,7 +2272,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskInfoRepository.getTa\u2026= it }, { Timber.e(it) })"
+    const-string v1, "taskInfoRepository.getTa…= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2458,7 +2458,7 @@
 
     move-result-object v0
 
-    const-string v1, "onViewChange\n           \u2026ibe({}, { Timber.e(it) })"
+    const-string v1, "onViewChange\n           …ibe({}, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -2622,7 +2622,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026on() }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…on() }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3289,7 +3289,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026on() }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…on() }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3656,7 +3656,7 @@
 
     move-result-object p1
 
-    const-string p2, "fetchCalendarData(calend\u2026.e(it)\n                })"
+    const-string p2, "fetchCalendarData(calend….e(it)\n                })"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -3849,7 +3849,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026on() }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…on() }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4099,7 +4099,7 @@
 
     move-result-object p1
 
-    const-string p2, "fetchCalendarData(calend\u2026.e(it)\n                })"
+    const-string p2, "fetchCalendarData(calend….e(it)\n                })"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4254,7 +4254,7 @@
 
     move-result-object v0
 
-    const-string v1, "tasksRepository.observeC\u2026ird) }, { Timber.e(it) })"
+    const-string v1, "tasksRepository.observeC…ird) }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -4464,7 +4464,7 @@
 
     move-result-object p1
 
-    const-string v0, "calendarRepository.getTa\u2026asks -> toUiData(tasks) }"
+    const-string v0, "calendarRepository.getTa…asks -> toUiData(tasks) }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -5032,7 +5032,7 @@
 
     move-result-object v0
 
-    const-string v1, "notificationDispatcher.o\u2026on() }, { Timber.e(it) })"
+    const-string v1, "notificationDispatcher.o…on() }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

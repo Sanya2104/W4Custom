@@ -138,7 +138,7 @@
 
     move-result-object v0
 
-    const-string v1, "documentsService.getDocu\u2026insertDocumentTypes(it) }"
+    const-string v1, "documentsService.getDocu…insertDocumentTypes(it) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

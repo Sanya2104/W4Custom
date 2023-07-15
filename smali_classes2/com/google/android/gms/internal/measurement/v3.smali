@@ -433,7 +433,7 @@
 
     sget-object p2, Lcom/google/android/gms/internal/measurement/v3;->zza:Lcom/google/android/gms/internal/measurement/v3;
 
-    const-string p3, "\u0001\t\u0000\u0001\u0001\t\t\u0000\u0004\u0000\u0001\u1002\u0000\u0002\u1008\u0001\u0003\u1004\u0002\u0004\u001b\u0005\u001b\u0006\u001b\u0007\u1008\u0003\u0008\u1007\u0004\t\u001b"
+    const-string p3, "\t \t\t  ဂ ဈငဈဇ\t"
 
     invoke-static {p2, p3, p1}, Lcom/google/android/gms/internal/measurement/w8;->n(Lcom/google/android/gms/internal/measurement/da;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;
 

@@ -247,7 +247,7 @@
 
     move-result-object p1
 
-    const-string v0, "tasksApi.getFinalizedTas\u2026 { LoadResult.Error(it) }"
+    const-string v0, "tasksApi.getFinalizedTas… { LoadResult.Error(it) }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

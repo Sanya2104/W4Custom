@@ -188,7 +188,7 @@
 
     move-result-object v0
 
-    const-string v1, "GsonBuilder()\n          \u2026g()\n            .create()"
+    const-string v1, "GsonBuilder()\n          …g()\n            .create()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -274,7 +274,7 @@
 
     move-result-object p1
 
-    const-string v0, "context.getSharedPrefere\u2026ME, Context.MODE_PRIVATE)"
+    const-string v0, "context.getSharedPrefere…ME, Context.MODE_PRIVATE)"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

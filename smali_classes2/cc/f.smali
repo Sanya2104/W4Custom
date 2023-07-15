@@ -141,7 +141,7 @@
 
     move-result-object p1
 
-    const-string p2, "nativePattern.matcher(in\u2026).replaceAll(replacement)"
+    const-string p2, "nativePattern.matcher(in…).replaceAll(replacement)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

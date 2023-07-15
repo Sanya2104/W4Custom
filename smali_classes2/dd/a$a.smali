@@ -92,7 +92,7 @@
 
     move-result-object v1
 
-    const-string v2, "context.resources\n      \u2026lurals.days, amount ?: 0)"
+    const-string v2, "context.resources\n      …lurals.days, amount ?: 0)"
 
     invoke-static {v1, v2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -126,7 +126,7 @@
 
     move-result-object v2
 
-    const-string v5, "context\n                \u2026 amount, daysPlaceholder)"
+    const-string v5, "context\n                … amount, daysPlaceholder)"
 
     invoke-static {v2, v5}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -212,7 +212,7 @@
 
     move-result-object v0
 
-    const-string v1, "context\n                \u2026atus_placeholder, status)"
+    const-string v1, "context\n                …atus_placeholder, status)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

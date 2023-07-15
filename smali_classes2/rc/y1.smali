@@ -149,7 +149,7 @@
 
     move-result-object p1
 
-    const-string p2, "taskStatusRepository.isT\u2026      }\n                }"
+    const-string p2, "taskStatusRepository.isT…      }\n                }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -380,7 +380,7 @@
 
     move-result-object p1
 
-    const-string v0, "commentsService.uploadCo\u2026         .ignoreElement()"
+    const-string v0, "commentsService.uploadCo…         .ignoreElement()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -505,7 +505,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(comment)\n          \u2026mmentUpload(it, taskId) }"
+    const-string p2, "just(comment)\n          …mmentUpload(it, taskId) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -579,7 +579,7 @@
 
     move-result-object p1
 
-    const-string v0, "commentsDao.observeByJob\u2026ble { uploadComment(it) }"
+    const-string v0, "commentsDao.observeByJob…ble { uploadComment(it) }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -851,7 +851,7 @@
 
     move-result-object p1
 
-    const-string v0, "registerForActivityResul\u2026thenticating\"))\n        }"
+    const-string v0, "registerForActivityResul…thenticating\"))\n        }"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

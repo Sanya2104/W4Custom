@@ -175,41 +175,41 @@
 
     const-string v2, " "
 
-    const-string v3, "\u0001"
+    const-string v3, ""
 
-    const-string v4, "\u0002"
+    const-string v4, ""
 
-    const-string v5, "\u0003"
+    const-string v5, ""
 
-    const-string v6, "\u0004"
+    const-string v6, ""
 
-    const-string v7, "\u0005"
+    const-string v7, ""
 
-    const-string v8, "\u0006"
+    const-string v8, ""
 
-    const-string v9, "\u0007"
+    const-string v9, ""
 
-    const-string v10, "\u0008"
+    const-string v10, ""
 
     const-string v11, "\t"
 
     const-string v12, "\n"
 
-    const-string v13, "\u000b"
+    const-string v13, ""
 
-    const-string v14, "\u000c"
+    const-string v14, ""
 
     const-string v15, "\r"
 
-    const-string v16, "\u001b"
+    const-string v16, ""
 
-    const-string v17, "\u001c"
+    const-string v17, ""
 
-    const-string v18, "\u001d"
+    const-string v18, ""
 
-    const-string v19, "\u001e"
+    const-string v19, ""
 
-    const-string v20, "\u001f"
+    const-string v20, ""
 
     const-string v21, "@"
 
@@ -225,7 +225,7 @@
 
     const-string v27, "~"
 
-    const-string v28, "\u007f"
+    const-string v28, ""
 
     const-string v29, "CTRL_LL"
 

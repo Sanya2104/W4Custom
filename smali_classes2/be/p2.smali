@@ -127,7 +127,7 @@
 
     move-result-object v0
 
-    const-string v1, "scheduledTaskStatusChang\u2026kpressureStrategy.LATEST)"
+    const-string v1, "scheduledTaskStatusChang…kpressureStrategy.LATEST)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -159,7 +159,7 @@
 
     move-result-object v0
 
-    const-string v1, "taskStatusChange\n       \u2026kpressureStrategy.LATEST)"
+    const-string v1, "taskStatusChange\n       …kpressureStrategy.LATEST)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

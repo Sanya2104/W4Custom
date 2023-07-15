@@ -327,7 +327,7 @@
 
     move-result-object v3
 
-    const-string v4, "Collections.singletonMap\u2026ek + \"=\".repeat(eqCount))"
+    const-string v4, "Collections.singletonMap…ek + \"=\".repeat(eqCount))"
 
     invoke-static {v3, v4}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

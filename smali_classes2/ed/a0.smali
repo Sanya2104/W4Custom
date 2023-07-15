@@ -348,7 +348,7 @@
 
     move-result-object v0
 
-    const-string v1, "absenceRequestService.ge\u2026.e(it)\n                })"
+    const-string v1, "absenceRequestService.ge….e(it)\n                })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

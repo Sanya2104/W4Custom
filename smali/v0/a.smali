@@ -3103,7 +3103,7 @@
 
     sput-object v0, Lv0/a;->s0:Ljava/nio/charset/Charset;
 
-    const-string v1, "Exif\u0000\u0000"
+    const-string v1, "Exif  "
 
     invoke-virtual {v1, v0}, Ljava/lang/String;->getBytes(Ljava/nio/charset/Charset;)[B
 
@@ -3111,7 +3111,7 @@
 
     sput-object v1, Lv0/a;->t0:[B
 
-    const-string v1, "http://ns.adobe.com/xap/1.0/\u0000"
+    const-string v1, "http://ns.adobe.com/xap/1.0/ "
 
     invoke-virtual {v1, v0}, Ljava/lang/String;->getBytes(Ljava/nio/charset/Charset;)[B
 

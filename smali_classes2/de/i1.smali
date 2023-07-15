@@ -440,7 +440,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(Unit)\n            .\u2026         .ignoreElement()"
+    const-string p2, "just(Unit)\n            .…         .ignoreElement()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -728,7 +728,7 @@
 
     move-result-object v0
 
-    const-string v1, "combineLatest(\n         \u2026= it }, { Timber.e(it) })"
+    const-string v1, "combineLatest(\n         …= it }, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -986,7 +986,7 @@
 
     move-result-object v0
 
-    const-string v1, "assetItemRepository.undo\u2026ibe({}, { Timber.e(it) })"
+    const-string v1, "assetItemRepository.undo…ibe({}, { Timber.e(it) })"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1030,7 +1030,7 @@
 
     move-result-object p1
 
-    const-string p2, "workerRepository.getWork\u2026          )\n            }"
+    const-string p2, "workerRepository.getWork…          )\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1238,7 +1238,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(Unit)\n            .\u2026          }\n            }"
+    const-string p2, "just(Unit)\n            .…          }\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1443,7 +1443,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(Unit)\n            .\u2026          }\n            }"
+    const-string p2, "just(Unit)\n            .…          }\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1638,7 +1638,7 @@
 
     move-result-object v0
 
-    const-string v1, "assetItemRepository.obse\u2026wModel(it))\n            }"
+    const-string v1, "assetItemRepository.obse…wModel(it))\n            }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1721,7 +1721,7 @@
 
     move-result-object v0
 
-    const-string v1, "assetItemRepository.obse\u2026scribeOn(Schedulers.io())"
+    const-string v1, "assetItemRepository.obse…scribeOn(Schedulers.io())"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

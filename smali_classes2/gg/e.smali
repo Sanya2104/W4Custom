@@ -95,7 +95,7 @@
 
     move-result-object v0
 
-    const-string v1, "Conscrypt.newProviderBui\u2026rustManager(true).build()"
+    const-string v1, "Conscrypt.newProviderBui…rustManager(true).build()"
 
     invoke-static {v0, v1}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -266,7 +266,7 @@
 
     invoke-static {p1, v1}, Lorg/conscrypt/h;->k(Ljavax/net/ssl/SSLSocketFactory;Z)V
 
-    const-string v0, "newSSLContext().apply {\n\u2026ineSocket(it, true)\n    }"
+    const-string v0, "newSSLContext().apply {\n…ineSocket(it, true)\n    }"
 
     invoke-static {p1, v0}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -288,7 +288,7 @@
 
     invoke-virtual {v0, v1}, Ljavax/net/ssl/TrustManagerFactory;->init(Ljava/security/KeyStore;)V
 
-    const-string v1, "TrustManagerFactory.getI\u2026(null as KeyStore?)\n    }"
+    const-string v1, "TrustManagerFactory.getI…(null as KeyStore?)\n    }"
 
     invoke-static {v0, v1}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

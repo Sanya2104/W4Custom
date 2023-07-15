@@ -146,7 +146,7 @@
 
     iput-object v0, p0, Landroidx/lifecycle/l0;->a:Landroidx/lifecycle/j0;
 
-    const-string v1, "ViewModelProvider(store,\u2026ed = it\n                }"
+    const-string v1, "ViewModelProvider(store,…ed = it\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

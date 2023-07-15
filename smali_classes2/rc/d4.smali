@@ -413,7 +413,7 @@
 
     move-result-object v0
 
-    const-string v1, "trackerConfigurationServ\u2026rackerConfiguration(it) }"
+    const-string v1, "trackerConfigurationServ…rackerConfiguration(it) }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -489,7 +489,7 @@
 
     move-result-object v0
 
-    const-string v1, "just(\n            gson.f\u2026a\n            )\n        )"
+    const-string v1, "just(\n            gson.f…a\n            )\n        )"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -533,7 +533,7 @@
 
     move-result-object p1
 
-    const-string v0, "locationDao.getUnsentLoc\u2026        .ignoreElements()"
+    const-string v0, "locationDao.getUnsentLoc…        .ignoreElements()"
 
     invoke-static {p1, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -618,7 +618,7 @@
 
     move-result-object p1
 
-    const-string p2, "locationDao.insertLocati\u2026Dao.getLocationById(it) }"
+    const-string p2, "locationDao.insertLocati…Dao.getLocationById(it) }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

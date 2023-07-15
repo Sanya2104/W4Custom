@@ -138,7 +138,7 @@
 
     move-result-object v3
 
-    const-string v4, "(this as java.lang.Strin\u2026ing(startIndex, endIndex)"
+    const-string v4, "(this as java.lang.Strin…ing(startIndex, endIndex)"
 
     invoke-static {v3, v4}, Lub/n;->e(Ljava/lang/Object;Ljava/lang/String;)V
 

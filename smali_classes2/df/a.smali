@@ -215,7 +215,7 @@
 
     move-result-object p1
 
-    const-string p2, "Builder()\n            .s\u2026nfirmationRequired(false)"
+    const-string p2, "Builder()\n            .s…nfirmationRequired(false)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

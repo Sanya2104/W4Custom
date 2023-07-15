@@ -60,7 +60,7 @@
 
     move-result-object p1
 
-    const-string p2, "onApplyWindowInsetsListe\u2026lyWindowInsets(v, insets)"
+    const-string p2, "onApplyWindowInsetsListe…lyWindowInsets(v, insets)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

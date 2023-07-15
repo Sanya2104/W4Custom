@@ -213,7 +213,7 @@
 
     move-result v9
 
-    const-string v10, "this as java.lang.String\u2026ing(startIndex, endIndex)"
+    const-string v10, "this as java.lang.String…ing(startIndex, endIndex)"
 
     if-eqz v9, :cond_2
 
@@ -607,7 +607,7 @@
 
     move-result-object v0
 
-    const-string v3, "this as java.lang.String\u2026ing(startIndex, endIndex)"
+    const-string v3, "this as java.lang.String…ing(startIndex, endIndex)"
 
     invoke-static {v0, v3}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

@@ -1249,7 +1249,7 @@
 
     move-result-object p1
 
-    const-string p2, "jobDao.observe(jobId)\n  \u2026?.toString(UTF_8) ?: \"\" }"
+    const-string p2, "jobDao.observe(jobId)\n  …?.toString(UTF_8) ?: \"\" }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1281,7 +1281,7 @@
 
     move-result-object p1
 
-    const-string p2, "jobDao.getJobTypeIdById(\u2026erve(it).firstOrError() }"
+    const-string p2, "jobDao.getJobTypeIdById(…erve(it).firstOrError() }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1334,7 +1334,7 @@
 
     move-result-object v0
 
-    const-string v1, "jobTypeInfoDao.get()\n   \u2026figuration)\n            }"
+    const-string v1, "jobTypeInfoDao.get()\n   …figuration)\n            }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1366,7 +1366,7 @@
 
     move-result-object p1
 
-    const-string p2, "jobTypeInfoDao.get(jobTy\u2026JobTypeInfoConfiguration)"
+    const-string p2, "jobTypeInfoDao.get(jobTy…JobTypeInfoConfiguration)"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1399,7 +1399,7 @@
 
     move-result-object v0
 
-    const-string v1, "jobsToUploadDao.observe(\u2026      }\n                }"
+    const-string v1, "jobsToUploadDao.observe(…      }\n                }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1432,7 +1432,7 @@
 
     move-result-object v0
 
-    const-string v1, "jobTypeInfoDao.observe()\u2026figuration)\n            }"
+    const-string v1, "jobTypeInfoDao.observe()…figuration)\n            }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1575,7 +1575,7 @@
 
     move-result-object p1
 
-    const-string p2, "just(jobDao.updateRawMap\u2026AD_PENDING)\n            }"
+    const-string p2, "just(jobDao.updateRawMap…AD_PENDING)\n            }"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1725,7 +1725,7 @@
 
     move-result-object v0
 
-    const-string v1, "formVariantService.getAl\u2026updateLastFetchedTime() }"
+    const-string v1, "formVariantService.getAl…updateLastFetchedTime() }"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1764,7 +1764,7 @@
 
     move-result-object v0
 
-    const-string v1, "fetchCreateFormVariants(\u2026       .onErrorComplete()"
+    const-string v1, "fetchCreateFormVariants(…       .onErrorComplete()"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1798,7 +1798,7 @@
 
     move-result-object v0
 
-    const-string v1, "jobService.getJobTypeInf\u2026cess(::insertJobTypeInfo)"
+    const-string v1, "jobService.getJobTypeInf…cess(::insertJobTypeInfo)"
 
     invoke-static {v0, v1}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -1886,7 +1886,7 @@
 
     move-result-object p1
 
-    const-string p2, "jobDao.observe(jobId)\n  \u2026   .onErrorReturnItem(\"\")"
+    const-string p2, "jobDao.observe(jobId)\n  …   .onErrorReturnItem(\"\")"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

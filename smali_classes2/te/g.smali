@@ -560,7 +560,7 @@
 
     move-result-object p2
 
-    const-string v0, "ViewModelProvider(this, \u2026mioViewModel::class.java)"
+    const-string v0, "ViewModelProvider(this, …mioViewModel::class.java)"
 
     invoke-static {p2, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

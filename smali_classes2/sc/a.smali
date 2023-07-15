@@ -651,7 +651,7 @@
 
     move-result-object p1
 
-    const-string p2, "databaseBuilder(context,\u2026r) }\n            .build()"
+    const-string p2, "databaseBuilder(context,…r) }\n            .build()"
 
     invoke-static {p1, p2}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

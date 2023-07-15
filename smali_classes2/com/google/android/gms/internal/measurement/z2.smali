@@ -325,7 +325,7 @@
 
     sget-object p2, Lcom/google/android/gms/internal/measurement/z2;->zza:Lcom/google/android/gms/internal/measurement/z2;
 
-    const-string p3, "\u0001\u0005\u0000\u0001\u0001\u0005\u0005\u0000\u0002\u0000\u0001\u1004\u0000\u0002\u001b\u0003\u001b\u0004\u1007\u0001\u0005\u1007\u0002"
+    const-string p3, "   င ဇဇ"
 
     invoke-static {p2, p3, p1}, Lcom/google/android/gms/internal/measurement/w8;->n(Lcom/google/android/gms/internal/measurement/da;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;
 

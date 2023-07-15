@@ -139,7 +139,7 @@
 
     move-result-object p0
 
-    const-string v0, "this as java.lang.String\u2026ing(startIndex, endIndex)"
+    const-string v0, "this as java.lang.String…ing(startIndex, endIndex)"
 
     invoke-static {p0, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -514,7 +514,7 @@
 
     move-result-object p0
 
-    const-string v0, "this as java.lang.String\u2026ing(startIndex, endIndex)"
+    const-string v0, "this as java.lang.String…ing(startIndex, endIndex)"
 
     invoke-static {p0, v0}, Lub/n;->h(Ljava/lang/Object;Ljava/lang/String;)V
 

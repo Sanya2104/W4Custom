@@ -392,7 +392,7 @@
     goto :goto_2
 
     :cond_5
-    const-string v3, "\u00a3"
+    const-string v3, "£"
 
     :goto_2
     invoke-virtual {p0, v4}, Ljava/lang/String;->substring(I)Ljava/lang/String;
