@@ -32,7 +32,7 @@
 
     iget-object v2, p0, Lv3/b;->a:Ljava/util/Map;
 
-    const-string v3, "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps"
+    const-string v3, "="
 
     invoke-static {v3}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
 

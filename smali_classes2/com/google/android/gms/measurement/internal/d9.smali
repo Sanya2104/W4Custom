@@ -350,7 +350,7 @@
 
     invoke-static {p0}, Lc4/p;->i(Ljava/lang/Object;)Ljava/lang/Object;
 
-    const-string v0, "^(1:\\d+:android:[a-f0-9]+|ca-app-pub-.*)$"
+    const-string v0, "^(1:\\d+:android:[a-f0-9]+|=-.*)$"
 
     invoke-virtual {p0, v0}, Ljava/lang/String;->matches(Ljava/lang/String;)Z
 
@@ -3911,7 +3911,7 @@
 
     aput-object p4, p1, p2
 
-    const-string p2, "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s"
+    const-string p2, "="
 
     invoke-static {p2, p1}, Ljava/lang/String;->format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
 

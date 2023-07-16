@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -232,7 +232,7 @@
     <string name="default_error_msg">Неизвестная ошибка</string>
     <string name="default_web_client_id">118350373245-ofg0n6js3817lhm4n7hihc82mprbt8ii.apps.googleusercontent.com</string>
     <string name="define_filter_query_name">Задать имя фильтра запроса</string>
-    <string name="define_zxingandroidembedded" />
+    <string name="define_zxingandroidembedded"/>
     <string name="dialog_quantity_title">Установленное количество</string>
     <string name="document_added_success">Документ добавлен</string>
     <string name="document_app_intent_title">Choose application</string>
@@ -387,7 +387,7 @@
     <string name="library_zxingandroidembedded_isOpenSource">true</string>
     <string name="library_zxingandroidembedded_libraryDescription">Barcode scanning library for Android, using ZXing for decoding.</string>
     <string name="library_zxingandroidembedded_libraryName">ZXing Android Embedded</string>
-    <string name="library_zxingandroidembedded_libraryVersion" />
+    <string name="library_zxingandroidembedded_libraryVersion"/>
     <string name="library_zxingandroidembedded_libraryWebsite">https://github.com/journeyapps/zxing-android-embedded</string>
     <string name="library_zxingandroidembedded_licenseId">apache_2_0</string>
     <string name="library_zxingandroidembedded_repositoryLink">https://github.com/journeyapps/zxing-android-embedded</string>
@@ -758,4 +758,5 @@
     <string name="zxing_button_ok">OK</string>
     <string name="zxing_msg_camera_framework_bug">К сожалению, возникла ошибка камеры. Может потребоваться перезагрузить устройство.</string>
     <string name="zxing_msg_default_status">Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.</string>
-</resources>
+<string name="quantity">Количество</string><!--base-->
+    </resources>
