@@ -279,5 +279,5 @@ usesFramework:
   tag: null
 version: 2.6.1-9bdf38-25.10.21
 versionInfo:
-  versionCode: "150723"
-  versionName: 0.0.1
+  versionCode: "200723"
+  versionName: 0.0.2

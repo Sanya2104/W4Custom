@@ -39,7 +39,7 @@
 .method public final i()Ljava/lang/String;
     .locals 1
 
-    const-string v0, "150723"
+    const-string v0, "200723"
 
     return-object v0
 .end method
@@ -47,7 +47,7 @@
 .method public final j()Ljava/lang/String;
     .locals 1
 
-    const-string v0, "0.0.1"
+    const-string v0, "0.0.2"
 
     return-object v0
 .end method
